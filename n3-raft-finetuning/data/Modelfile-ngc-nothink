@@ -1,0 +1,2 @@
+FROM nemotron-9b-jp-nothink
+ADAPTER /home/morishige/works/private/ai-workspace/workspace/blog/scripts/data/n3/nemotron-9b-raft-lora-ngc.gguf

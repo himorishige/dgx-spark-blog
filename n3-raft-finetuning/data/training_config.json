@@ -1,0 +1,28 @@
+{
+  "model_id": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+  "backend": "hf-peft-bf16",
+  "environment": "dgx-spark-ngc",
+  "container": "nvcr.io/nvidia/nemo:25.11.01",
+  "quantization": "none (BF16)",
+  "note": "QLoRA incompatible with Mamba-2 CUDA kernels",
+  "lora_targets": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "lora_coverage": "53%",
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "learning_rate": 0.0002,
+  "num_epochs": 1,
+  "batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "max_seq_length": 4096,
+  "training_samples": 1100,
+  "training_time_seconds": 3300.8884842395782
+}

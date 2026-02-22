@@ -1,0 +1,7841 @@
+{
+  "model": "nemotron-9b-jp-nothink",
+  "total": 1119,
+  "correct": 1029,
+  "accuracy": 0.9195710455764075,
+  "results": [
+    {
+      "question": "電子機器で使用される最も主要な電子回路基板の事をなんと言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "田んぼが広がる風景を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "しゃがんだりする様を何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "水を出すときに捻るものは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "音楽にあわせて踊る場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "地中にある一定の大きさの空間のこと？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "乗り物が関係する言葉はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "持ち運び、使いまわりの良さに富んだパソコンをなんという？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "タバコを吸う事を何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "スピードを超過して警察に捕まることといえば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "伸び縮するものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "生活用品としても利用し、美術品としても取り扱われている物は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "買い物に必ず必要なのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "手に下げる鞄のことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "夏に多く発生する生物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "親しい人との人間関係を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "曲がる時の合図は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "この3つの中で鉄筋コンクリートで作られる中高層の建築物の名称は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "汁もを英語で表現すると何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "卓、台、表などの意味を持つのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "飲み物を入れるもので、ガラス製のものは何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "家で飼育できる動物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "お金を？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "サーカスの人気種目で、ブランコの前に付く言葉は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "漢字の読みを示すために、脇に振ってある仮名とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "自分の幹となっているのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "この中で鳥取にあって岡山や兵庫にないものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "北海道札幌市北区北8条西5丁目に本部を置く日本の国立大学を何というか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "スキー場などにある、輸送機器の一つで、高所低所に張られたケーブルにアームが付き、そこにむき出しの椅子を据えたものをなんというか？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "同じ部首が使われている熟語はどれですか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "大統領のいるところは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "間違って理解されてしまう、と言えばどれ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "乗り物の安全のための職業は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人から人へ情報を流すことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "次のうち、金管楽器であるのはどれ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "主に川で見かけるものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ワインを入れるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "アメリカの首都は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "次のうち、カービィのコピー能力にあるものはどれ？",
+      "gold": 4,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "街中にあるなんでも売っている店は何と言いますか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "花の都とは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "水などで体を浮かせるときに使う道具はなに？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "はがきを配達してくれるとこは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "物を売っている所を総称して？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "飲み込まずにかんで香りや味を楽しむ、弾力性のある菓子は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "中国・遼東半島から朝鮮半島にかけての地域でとれる人参は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "冷やす装置のことを何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "冷えたものを温まるのに使うものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "悪事をはたらいた人が収監されるのはどこ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "身につけるものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "心が乱される様を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "議事堂のイメージは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "19から20世紀以降の技術等に関して研究する分野は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "言葉を使わずに相手に伝える手段でオーバーに手足を動かして伝える事を何と言う？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人に故意に障害を与えることをなんという？",
+      "gold": 2,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "チューチューとなく動物は？",
+      "gold": 4,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "パソコンで印刷するものはどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ミサを唱える所は何処？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "肉の端は？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "モーニングサービスといえば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "寒い地域にすむ飛べない鳥を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "次のうち、漢字の部首の1つにあるものはどれ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "社会での役割などについて、性別による固定観念をなくしていこうという考え方を表す言葉は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "眠ることを、何すると言うか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "分けて咲かすのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "病気ではない状態は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "鉄筋コンクリートでできたオフィスなどが入る高層階の建物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "イランと戦争した国は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "アメリカ合衆国の中でマイアミがある州は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "小さい島の集まりは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "水は何になる？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "手軽に複雑な立体物を作れる機械は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ビールのつまみで何まめ？",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "生き物でない乗り物は？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "スーツ姿の男女が、希望する業種の話に参加するのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "綺麗になるためにすることは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "テーブルやタンスなどをまとめてなんという？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "特定された生産者に作られた品物のことを、何と言うか？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "ダンスで、ミキサーといえば？",
+      "gold": 2,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "物を加工したものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "国会、市、県、町にいるものはなんでしょう？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "あぜ道などに生えているものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "横綱の土俵入りの際に出てくる力士を何という？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "イベントは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ローターのついた乗り物で空を移動することは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "一生のなかばとは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "動物は？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "小便をする場所はどこですか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "食べる、噛む時に使うからだの一部は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "高いビルは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "外国為替のことを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "最初の季節は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "水面の上のことを何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "元素記号でH2Oと表記されているものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "良いの反対は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "心臓を英語では？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "株式を取引する場所は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "マチュピチュで有名な南アメリカにある国はどこ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "アイスクリームを持つことができ食べることもできる入れ物とは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "小さい区域は？",
+      "gold": 1,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "楽器は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "魔除け、厄払いのお守りは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "山梨産の梅とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "家などを建てている場所を？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "国外の人にわかりやすくした表記は？",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "モノ作りが得意な人はどこが器用？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "加工して服を作れるものはどれか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "アルコールを分解するのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "化学的及び人工的に作られるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "農業をする土地を何と呼ぶか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "体の一部はどれ？",
+      "gold": 0,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "両足に履くものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "フルート達が集まる集団は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "neiborを訳すと？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "年齢とともに顔に出てきて悩ませるもの何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "旅行へ行くのに？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "前屈姿勢を表す言葉は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "countryを日本語訳すると？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "コウモリがいるのは？",
+      "gold": 0,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "上着の首回りは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "車で座席のことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "キオスクなどの形態を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "鍵のことは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "見えないけれど必ずまわりにあるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "コンビニのカウンターで買えるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "たまに注意報も出る突風で回転しながら家などもつぶしたりするものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "食べ物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "勉強するときに椅子に座って向かうところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "下着として履かれるズボンは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "女性を意味する言葉は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "国を動かす機関を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "燃料を入れるところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "バラバラの形をしたピースを繋ぎ合わせて1枚の絵を完成させる物を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "食卓にかけるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "電気でお湯を沸かせるのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "議員数が465人の国会議院は？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "東京の魚の卸売市場で以前使用していた場所の名前は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "この中で触れたくない様を表しているのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "体を綺麗にする場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "花の都といえば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "鉛筆で書いた間違えを何で消すか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "暴力的ないろとは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "お正月を別の言い方でなんと言う？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "店を意味する単語はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "朝鮮民主主義人民共和国の通称は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "川を渡るのに乗る物は何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "相手より有利になっている事や犬を散歩させる時に着ける物を何と言う？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "フランス人は長くとることが多いものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "波や風で砂などが運ばれて堆積した水と陸との境界域は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "争いをなくすことは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ある事象 B が起こるという条件下での別の事象 A の確率のことをなんという？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "貸した金銭が回収不能となることをなんという？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "床に敷くものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ヘルシーな食事、運動をすると体がどうなる？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "カレーをご飯にかけた食べ物をなんというか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "原子核はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "様々なものが売っている場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "旦那さんと？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "木を噛る動物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "記憶に使うのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "製図版を使って行うことは何？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "人間の部位は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "食材などを様々なサイズにカットできるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "かつて存在したプロテスタント、メソジスト系のキリスト教の信徒団体の事を何という?",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "早く移動できる乗り物は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "建物内の小さい所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "夜空に見える一番大きいものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "政治を執る高官になることを何と言いますか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "黄金の塊のことを何と言うか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "コップの下にしくものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "店のことを英語でなんと言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "料理を盛り付けるときに使うものはどれですか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "地球の表面の広く一面に水をたたえた部分を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "太陽や月が現れる場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "肺の病気は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "複合文化施設とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ウォークマンを作った会社は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "何かをする前に事前に行うものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "主に就寝中、意識がはっきりしていながら身体を動かすことができない症状を何と言うか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "捜査二課の担当は？",
+      "gold": 2,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "交通ルールと運転技量が身に付いている資格を証明するものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "咲いた梅が散る様とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "衣類を収納しておくのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "通貨、貨幣のことを何と言いますか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "年上の女性のきょうだいを敬う言い方は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "道路にあるふた付きの穴は何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "好意をもってるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "領土と人と自治権を持ったものは？",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "英語でhouseといえば、どのような場所のことを指す？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "一筋縄では解けない問題は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "単一の企業が複数の分野の専門店を統一的に運営し、それら専門店を面積が広い大規模な店舗に集約し多種類の商品を展示陳列して販売する小売店の総称をなんと言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "過剰摂取によって起こる症状とは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "鉄道の停車場。列車を停止させ、旅客、貨物を取り扱う場所？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "壁などに作る収納の名称は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お仏壇で唱えるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "学生が教科書を入れる物は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "都会の反対は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "犬を小屋に帰させる芸の名前は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "物事の理非を論じ、主張を述べ、また解説することを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "首都が北京の国はどこ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "何か問題が発生したりしたときに使用するのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "香ばしいお茶は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "みんなが寄り集まることを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "毎週発刊される書物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "皿を片付ける場所は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "野菜や果物を売るところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ネットでつながっているのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "老後に蓄えてするのはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "この中で地表の内部を意味する言葉はどれか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "レアアースと呼ばれる元素は何か？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "生物が活動する力とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "行政区画は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "雪山を滑るスポーツは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "家族が一緒にくつろぐ部屋の名前は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "フワフワしているのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "1番偉い信者は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "英語でairportと言えば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "声で言葉により音楽的な音を生み出す行為は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ビールを入れる入れ物といえば？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "入学式、入社式がある月は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "劇場の最前列の客席を何と言いますか？",
+      "gold": 0,
+      "pred": 4,
+      "correct": false,
+      "response": "4\n"
+    },
+    {
+      "question": "銃で使われることがあるものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "大学生がさらに学問をしようとして研究室に入ったりしてよばれるのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "肥料になるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "お店を仕切っているのは？",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "写真などを入れて飾るものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "削るのは？",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "排泄したいときに行くところはどこ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "占領地や植民地における最高指揮官のことを何と呼ぶ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "てっぺんをなんていう？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "投資家が意図的に操作した銘柄の呼び方は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "フィンランドやデンマーク、カリフォルニア州などで導入されている、炭素が含まれる量や比率に応じて石油や天然ガスなどに課される税金を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "買うところは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "国は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ゆりかごからが墓場までの長い道のりをなんという？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "トイレでお尻をふくのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ポストに入れたハガキを送るのは何と言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "聴衆の前である物事について話す人？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ワインを保管する場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ふたつをくっつけるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "フランスではワンルームマンションの意味で用いられる、一般に写真や映像などの撮影収録のために使われる施設を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人間 が主に 大 小便 の 排泄 に使用する器具であり、古くは移動式もしくは屋外設備であったが、近年は 陶器製 のものが普及しており、住宅設備部材の一つとなって いるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "柑橘類の代表的な果物は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "乗り物なのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "食べ物を調理するところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ムカムカするのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "家電製品を扱う小売店のことをなんという？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "靴や袋などに付いているもので結ぶものは何？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "同じ学校や職場の人が一緒に暮らすところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "物の外側をなす面を何と言うか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "野球する場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "夏に枝豆をつまみにしてよく飲まれる泡の出る飲み物は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "木から枯れて落ちてくるものはなに？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "文字を送る郵便は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "海のもぐりは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "飲みすぎると中毒になるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ロシアと隣接するのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "イヌ科イヌ属に属する哺乳類は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "海外はどれか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "勉強するところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "農作物を田畑から取り入れることとは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "下町を英語では？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "前もってやっておく事？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "実験に使う道具は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "レースにも使われる乗り物は？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "りんごが落ちるのを見て「万有引力の法則」のヒントを得たのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "タモリさんのお昼の番組をしていたところは？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "拝むのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "保管場所に納めることを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "パソコンでボタンをおす入力機器は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "運動の英語は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "だまして金銭を奪い取るのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "そもそも・初めからなどを言い換えると？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "服の一部でちょっとした物を入れる場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "音声を電気的信号に変え、離れた場所に伝達し、これをふたたび音声に戻すことで、相互に通話できるようにした通信方法を何と言う？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "落語の名前は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "雨風や日光などから車を守るための建物はなに？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "体を動かす競技のことは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "小道具の反対語は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "成熟した農作物を収集することとは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "食べ物を食べることをなんという？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "机、テーブルの別呼称は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "負の電荷を持った電子は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ノートなどに貼って遊ぶものは?",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "巣箱で飼い、ロイヤルゼリーなども珍重されるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "体制に従いたくないならどうする？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "僕が住んでるところは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "日本の首都はどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "キリスト教で礼拝を行う建物はどれだ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "この中で工具はどれですか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "アマチュアスポーツの祭典といえば何の大会？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "マックOSに付属するデスクアクセサリーの一つでテキスト入力時に使用する物は何？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人を乗せて飛ぶのはどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "木がたくさん集まっている場所の名称は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "長編動画をスクリーンに映す際の男の出演者を何と言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ドラえもんが寝ている場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "建物や会場などの入口で、来訪、または参集する人の氏名や用件を聞いて取りつぎ、その他の取り計らいをする所やその人のことを何と言うか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "何かに通るためにチャレンジする事とは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "碁盤や将棋盤などの上のことを？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "自身の質量を軽くすることを表しているのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "織田信長軍と今川義元軍の合戦が行われた場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "罪人などを縛るのによく使われたものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "服をかえるのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "カタカナを選んでください？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "和室にある、部屋と部屋を仕切るものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "洋風の居間のことを何と呼ぶ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ジャンプの日本語は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "東京にある赤色の塔は何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "雨上がりのときなどに、太陽と反対方向に現れる色のついた光の輪を何というか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "徹夜した次の日襲ってくるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "寝具を収納する空間は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "宇宙から見たら青くて丸い星は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人の命を故意に奪う行為は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "学校の授業で、主に漢字や文章を学ぶ科目は?",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "誌をつくり語る人とは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "祭りでする当たりとはずれがある事をするのは何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "家族の意味で使うことばは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "コットンが材料になる織物は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "エラがあって、ウロコがあって、ヒレがあって、水の中に住んでいる生き物ってなんだ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "北海道では札幌市、愛知県では名古屋市、これらをなんと言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "太陽を英語にすると？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "頼りになる部下は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "話して聞かせることは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "教室の前にある緑のものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "山の中で小動物が食べるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "さまざまな事象を合わせて考えることは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "病気を治す職業は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "心配や不安の反対の言葉は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "油田で原油を採掘する為に使う井戸を何と言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "車の排気音を小さくするために使われるのはどれですか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "髪などを綺麗にする場所を何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ガソリンで動くものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "狩りに使うものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "水辺に生息する生き物を主に飼育する道具は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "力士の別名は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "国家が侵略を受けた際に自衛権を行使し、軍事力などを以ってこれを拒否・抵抗することを何と言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "顔を洗う場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "連絡事項あるいは伝達事項を記入もしくは掲示によって表示する器具とは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "文章を相手に送れる略してファックスと呼ばれる機械は何でしょう？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "中学校に通う生徒をなんという？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "福井県の南西部、若狭のほぼ中央に位置する市は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "次のうち、住宅の一番上にあるのはどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "人間にとって危険な鰻は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "議員が集まって国策などを審議する場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ごみ処理といえば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "千葉県の県庁所在地は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "海に泳ぐ、尾鰭、胸鰭のある生き物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "博多駅がある所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お酒を飲んで楽しむ場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "デパ地下で主に売ってるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "肉のご馳走は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人が競争することは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "女性が言われると嬉しくなる形容詞言葉は？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "詩をよむ人は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "親のいない子供の施設は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "アメリカの都市といえば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "手足にあるもの？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "放送を受信して画面に映し出す電化製品は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "マレーシアの首都は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "足首の所で左右に骨が盛り上がっている部分とは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "食べて美味しいのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "黒いのはどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "パスタの美味しい国は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "蚕の繭から作られた繊維は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "アメリカにある州は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "家から出ることを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "冷たい食べ物が一瞬で暖かくなる魔法の箱は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "薬の中で、粒状のものはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "漢字で書くと無花果。果実に赤いつぶつぶが多くあるフルーツは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "逮捕されたら行くのはどこ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "既婚者と恋に落ちた女性のことを？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お皿やコップなどを自動で洗ってくれる機械って何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "現実で起こりそうなことをなんという？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "人の金銭での受け渡しをなんというか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ポリマーを原料とする袋は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "次のうち、調理器具はどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "頭・胸・腹に分かれる節足動物を何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "飲料を入れる物は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "石鹸を置くのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "問題を問われたらどうする？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "運動するの英語は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "埋め立て地の雅語的表現を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "マレーシアで有名な海峡の場所は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "物を売る人を表す単語はどれ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "暑さ対策に頭に被るものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "マンションより小さい借りる部屋は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "能狂言や歌舞伎舞踊に対して芝居のことを何という？",
+      "gold": 4,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "ぷりっとしたかわいいおしりはどれ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ごはんを食べ終わった後にいう言葉は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "鉛筆はなにをするため？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "英語で「musical instrument」といえば何のこと？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "日本語で書かれた店は？",
+      "gold": 1,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "粘土を一定の形にかため、かまで焼いたものを何と言いますか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "自分が住んでいるのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "三越、高島屋、大丸などの店の総称は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "病院ではないが、介護を必要とするお年寄りが利用する場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "車や部屋の開閉の時に使う物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "自分の顔が見えるのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ラーメンや餃子が食べれるところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "海に暮らす生き物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "自動車に搭載される音響機器のことを？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人や動物が意思疎通のために出すものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "揚げたり炒めたり煮たりするすることを一般的に何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "十脚目短尾下目に属する甲殻類の総称を何と言うか？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "機器を離れた所から操作することを何と言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "落花生の生産地は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "家の中にあるのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "世界で6番目に大きい島は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ミートは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "将来の見通しがつくことは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "根菜で、馬が好きな食べ物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "アメリカの都市は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "走る描写は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "演奏する一団は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "横穴式住居みたいな、簡易型のホテルは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "日本にある駐在は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "次の内、葬儀などでよく見るのはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "物をしまう部屋は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "書籍や雑誌の小売店や卸業者や出版社の事を何というか？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "過去の失敗談のことをなんていう？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "スイーツは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "広範囲に渡って樹木が密集している場所のことを何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "身体や服などに使用する、香りをつける物の名前は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "土と氷が混ざって固まっているものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "① 書斎。 書堂。 ② 書店。 本屋。これはなに？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "子どもなどが歌う童謡を集めたものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "指の先端の固い部分は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "物を測ったりする道具は何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "非常に多く集まって形づくった大きなむれを何と言いますか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "スポーツするための場所はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "演劇、映画館、映像などを公開する施設を何と言う？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "本を読むこと？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "植物なのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "学校へは通学せずに家庭で学習するのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お金を入れる物は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "塗装に色を付けるときにすることは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "国を守る部隊は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "町に建っている高い建物は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "あるものを封鎖する動作はどれ？",
+      "gold": 3,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "テレビ、カーに共通することは何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "精神病にかかっている人が入る病院を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ホームレスは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "料理で出た食べ物のゴミを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "一般に四年制で、専門知識を学ぶ学校を何と言うか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "点心などが有名な4000年の歴史があると言われる料理は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "兵を集めて行動に移す事を何と言うでしょう？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "火薬を用いた大型の弾丸をなんと言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "不動産仲介会社、アパマンショップの「アパ」は何の略？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人や車両が通る道のことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "雨が降ったときに使う道具は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "会社の役員と呼ばれる人を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "国の人々の事をなんと言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "お巡りさんが腰に付けているのは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "辛い中華は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "上にひっかけて着るものの総称をなんと言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "静止画を撮影する時に使う機器は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "二つの産業における価格差のことを何と言うか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "公共の用に供する飛行場のことを何と呼ぶ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "この3つの中で2つの車輪を表す名称は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "足の指ではなく、手のなに？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "胸囲を英語で言うと？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "山に木が沢山生えている？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "アメリカの国家形態を表す言葉は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "他人をバカにすることは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "歩いたときできるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "書類など収めておく物は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "栄養によって固くなるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "キング、クイーン、ナイトといえば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "故郷に帰ることは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "日本の5月末から7月初〜中旬にかけての、曇りや雨の日が多くなる時期のことを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人の優れている様子を見て、自分もそうありたいと思うことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "読み物が沢山あるお店を？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "返済の負担を抑え目で融資してもらえるものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "一人前の男子を何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "第二次世界大戦で、日本に原爆を落とした国は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "一定の理論に基づいて体系化された知識と方法であり、哲学や歴史学、心理学や言語学などの人文科学、政治学や法律学などの社会科学、物理学や化学などの自然科学などの総称を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "室内のうえの部分は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "食道から連なる消化器官は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "食料品を日常的に買いに行く場所は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "布を断ったり、紙を切ったり、美容師が髪を切ったりするものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "食器などを手洗いする時に使う道具は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "鉛筆を英語で言うと？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "長いこと同じ場所に閉じ込められる事は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "車道と歩道を分ける物体は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "古いヨーロッパの俗信で、超自然的な力で人畜に害を及ぼすとされた人間、または妖術を行使する者のことをなんというか？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人気者のことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "会社などの総称は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "旅客機において旅客及びその手荷物の運送に関して発行される搭乗用券の総称は何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "高校生までが通う施設は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "文化的な学問のことは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "人口が集中しているのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ラブの日本語は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "髪をとくのは？",
+      "gold": 4,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "和室に絶対敷いてあるものは何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "横切ることは何？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "飼育されている動物のごはんという意味を持つ単語はどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ドキッと驚いた時にかくものは何？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "インジョイすることで、ワクワクすることなどは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "銭湯とはどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "中国 の 思想 に端を発し、 森羅万象 、 宇宙 のありとあらゆる事物をさまざまな観点から 陰 （いん）と 陽 （よう）の二つの カテゴリ に分類する思想とは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "一日のうち最初に食べる行為を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "パンツを脱ぐ前にしなくてはならないのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "お祭りでよく売られていてヒーロー等の種類があるものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "私の国籍は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "次の内、液体はどれ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "目がとても良いのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "サトウキビからつくるのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "牛を飼っているのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人の移動手段に集まる場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "人の欲望は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "国境を遮るものは？",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "風景などを描いた物は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ひどいと読むものは？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "日本と親しくすることは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "地域の指定の袋で出すものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "でっかい？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "鍋などに被せるものをなんという？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "チキンを日本語で何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "指の先端にあるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "写真と関係があるのはどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "モノや人などを撮影する機械があるお店のことをなんというか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "病院や駅で待つ所は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "建物の中で見上げると見えるのは桁と何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "学校教育の科目にあるのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "洗剤、柔軟剤を使うのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "本がたくさん置いてあり、貸出してくれるところは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "卵を数の子と呼ばれるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "特定の人や物ではなく、同じ役割をする別の人や物を何と言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "絵に関係ある言葉は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "サラリーマンの戦闘服は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "木などを着るためのギザギザした刃の道具はなに？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "地球の陸地の表面を覆う物質は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "部屋は?",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "物を作るときに必要なものは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "照明器具といえば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ガレッジ、ユニバーシティのことをなんと言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "危なかったときに言う言葉は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "放牧している牛が食べるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "アメリカにある大学は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "細かい石のことは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "平均寿命を超えた年齢になりたいとき、何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "体全体を表す言葉は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "子猫の愛らしさを形容するのはどの言葉？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "英語でキャビネットといえば、どんな家具のことを言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "芝居を行う建物を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "山の川は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "同じ文化を共有して、生活様態を一にする集団は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "専門的な事を習得する為に使うものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "買う物の総称はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "博物館の一種である建物は何？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "読み物は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "乗り物を安全に通行するために行動を知らせるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "寺院において読経のために設けられたスペースをなんと言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "建物の外は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "市場のことを英語でなんという？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "干支の始まりはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "衆議院や参議院がある機構は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "不用品を捨てる行為は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "住居や商業施設が入る建物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "楽器や歌を歌って数人で組むものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "勉強するときに使うのは椅子と何？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "海辺にあるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "エンジンで駆動する四輪などの乗り物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "在学中にスーツを着て各社回るのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "最近は写真を撮るのにこれかスマホを使うものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "パソコンのキーを打つのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "トゥリーのことをなんと言う？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "この中で動物を表す言葉は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "国や自治体が運営する大学は?",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "金属製の小さな容器のことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "外の対義語は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "手荷物かばんは？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "とんがりコーンを作っているメーカーは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "虫歯を治すのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "日本家屋でふとんをしまう場所はどこ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "トイレの別名？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "戦争に行く集団は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "一番チャチャチャが似合うのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "生業は？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "神社といえば？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "インフルエンザの原因は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "己の願望を満たすために励むことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "船の総称を何と言うか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "耳につけるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "大人のオモチャとも言うが夜の営みで更に興奮を高めるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "神社などで祈祷の際に使われるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "冬に白い塊が空から落ちて着ることを何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "本当のことを言わないことを、何を付くという？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "女性にも男性にもあるが，女性のみ膨らんでくるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "台を置く場所は？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "ものを入れたりする袋は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "葬式は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人が立っているのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "書き物をしたり本を読んだりするための場所はどこ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "福島県にある地名は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "色々な生活用品を売っている所は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "コンクリート造の高い建物は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "雨が降り、雨が残った場所はなに？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ハイキングに担ぐものに担ぐものとは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "「ざんごう」と読むのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "毎日のくらしは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "2本以上の道路が交わる場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "歌を詠むのは？",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "response": "4\n"
+    },
+    {
+      "question": "次の３つのうち百貨店を表す言葉は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "なにをたどって後をつける？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "コーヒーや紅茶を飲む店は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "欲しい物を自分のものにすることは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "氷を冷やす箱はなんという？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "テレビを見れるようにする物を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ゲームすることは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "日本古来の麺類は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "和式の宿泊施設は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "コーヒーを入れるのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "本などを並べる家具は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "トイレの際、座るのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "顔や姿をうつし化粧をするための、鏡を取り付けた台のことを何と言いますか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "相手と接触するのに必要なのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "久しぶりに運動するとあとになって出る痛みは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "月桂冠、大関などの飲み物をためてあるところは何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "舞台芸術の一種で、せりふ運びの一部、または全てを歌唱によって行う演劇を何と呼ぶ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "何が起こるか気がかりな様子は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "机の上にかける布のことを？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "しゃべる仕事は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "トイレ掃除の時に使う手袋は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "夏、海でやる事は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "自然にあるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "建物などの上を覆う構造物のことを何と言いますか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "応接間にひいてあるのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "次のうち、一般的に武器として用いられるものはどれ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "魚の名前がついているのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "複数の人がいろいろな楽器を演奏するグループのことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "水を飲むのに必要なのは？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "北海道の夜景で一番有名な場所は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "凶暴な動物が入れられるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "会社で部下の対義語は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "主催者がパーティなどを行うことを何と言う？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "冷やす機械は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "国や民族等、集団の中で使われるユニークなコミュニケーション手段は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ビジネスなどで、友人Aと友人Bの間を取り持ち、両者の役に立ってあげることは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "会社で責任ある立場の人のことをなんという？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "主に春と夏に旬を迎える野菜は？",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "その上に物を置いたりできる家具は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "怪我を負うことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "背が伸びるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人々がはしゃぐことは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "口の汚れをきれいにするものは？",
+      "gold": 4,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "ホテルで泊まる部屋は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "いつも元気で笑顔の人は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "アメリカの金融街は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "洋服を収納するのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "電気、通信を送信するのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人が利用するために飼育している動物の総称は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "言葉を使わないと出来ないことは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "建物は？",
+      "gold": 4,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "中身を交換することを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "食品を切ったり煮たり焼いたりする事は何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人の集合体は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "発声するとどうなる？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "火を触ると？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "その国に住む人たちのことをなんていう？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "2階へ行くには？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "海岸や湖の一部が侵食作用によって陸側にえぐるように入り込んでできた地形は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "雰囲気が良いという意味の言葉は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "理容 （ 散髪 、刈込、顔剃りなど容姿を整える）の業を行うために設けられた施設とは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "多額の財産を持つことをなんていう？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "大きな声、拳を握ってどうする？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "中尾彬の出身は千葉のどこ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "神奈川県の大仏は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "全てを吸い込むものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "今のご時世、感染予防には欠かせない店舗入り口にあるものは？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "戦争回避する学問とは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "この中で根菜の一種は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "車を停めておくところ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "消防士の仕事は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "公園で座るのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "電気自動車の心臓部は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "空間を飛び交い情報を伝達する物とは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "構築物（橋脚や建物等）の基礎を支える地面（地殻の表層部）のことである。これはなに？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お皿やコップの入った棚は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "電卓に使うのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人が信仰のためにお祈りをしに行く場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "建築や土木などの建築作業のことを何と呼ぶか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "あとで読み返すためにその場で書き留めるものは何？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "酒は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "建物の一番手前にあるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "木が三本あるのはどれ？",
+      "gold": 0,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "パネルを使って発電できるのは3つのうちどれか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "漢字よめない？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "ヨーロッパのことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "体を洗うところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "交通の後に続く言葉は?",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人形を使ってごっこあそびをするものもあるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "よくバッグに使われる素材は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "果物は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "催し物を見る人は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "心身に加わったストレスを発散させる事を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "防暑、防寒、装飾などを目的として頭にかぶるものを何という?",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "元来キノコを意味する言葉は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "部屋を掃除しないと溜まってしまうものはこの中でどれか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "色々な種類が混ざってる薬味で辛さを加える物を何と言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "地球の役9割を占めるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "オ－ストラリアで世界最大のサンゴ礁地帯は何ですか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "応募希望者に自社の説明をするのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "意見や議事などが書かれたものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "サンクトペテルブルクが州都の州は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "脳はどこにある？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "子供が遊園地でなってしまうものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "学校で受けるものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "マタタビ科マタタビ属の雌雄異株の落葉蔓性植物の果実である。これはなに？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "法律により規制がかかるものはどれでしょう？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "繁盛しているお店で順に長く並んだものを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "次に次にと進めていくことを何と言う？",
+      "gold": 3,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "いろいろな食べ物を一か所に集めた催し物は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "家具などにある物をしまうスペースは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "落ち着かない様子は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "スリルを味わうための乗り物といえば？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "商品を入れる物は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "趣味は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "与える側ではないものは？",
+      "gold": 1,
+      "pred": 4,
+      "correct": false,
+      "response": "4\n"
+    },
+    {
+      "question": "金槌のことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "一番くつろげるところは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "桜の仲間で夏から秋に実をつける果物は？",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "response": "4\n"
+    },
+    {
+      "question": "知らない人に車に乗るよう言われたら、どうするべき？",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "response": "4\n"
+    },
+    {
+      "question": "いいことがあった時の気持ちは？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "夏に活躍する家電は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "仕事をしているうえで上役の人を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "小麦、片栗、お好み焼きなどの種類があるものは次のうちどれ？",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "飲み物を英語で？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ス－パ－で買った品物を入れるものを何と呼ぶ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "心の拠り所になるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "県の本庁舎が置かれている都市は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "電車やバスを乗るときに必要なもので、西村京太郎のミステリーにもよく出るアイテムは?",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "薄降板に亜鉛をメッキして防錆加工された鋼板の名称は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "仕事で管理する人のことを何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "火が出るのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "キリスト教の教会のことを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "その場の雰囲気を指す言葉は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "飲み物のことは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "猿から進化したといわれるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "服に物を入れる所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "後払いで買い物することは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "リオの？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "南方の部分の事を何という?",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "字を書く際に利用するものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "高い場所を目指して歩くことを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "お金が必要なのはどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "マツタケやシイタケのことを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "きれいなことをなんと言う？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お金を払うのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "学問と芸術を一般的に何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ミュージシャンが書くものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "物体が物体に当たって聞こえるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "手紙のことは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ジャスミンティーを漢字で書くと？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "車の窓を掃除することは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "座るところは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "料理を盛り付けるときに使う道具はどれですか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "背骨の下部を何と呼ぶ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "機械が動き始めることを何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "屋台などで売られている、ソースの香ばしい匂いが最高のB級グルメといえば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "キッチンは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "痒くてたまらなくなるものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "寺で行うことは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "サラダや添え物として使われる葉物野菜の一つといえば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "さぐって知ることを何と言いますか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "読売ジャイアンツの本拠地は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "神の教えをまとめ系統立てたものは何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "アジアとヨーロッパの架け橋と呼ばれる国は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "今日はこれで乾杯！何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "芸人の笑いが潰されることを芸人何と言う？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "会社が入ってる高い建物をなんという？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "コロナの影響で、利用自粛が求められているのはどれですか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "罪を犯したのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "私たちは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "昆虫は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "毛が一番生えているのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "白くてパンの材料になるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "私たちは何ですか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "この3つの中で肉体の痛みのために苦しむことを表す名称は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "野球をする場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "アメリカ合衆国の中でロサンゼルスがある州は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "硬いのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "美術館ですることは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "上空の高いところを何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "東京代表ですが、オリンピックでの代表は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "持ち運ぶものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "持ち運びできるパソコンは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "出席に続く言葉はどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "お菓子を販売する店は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "水の中で泳ぐことを何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "左右、背面を板などで囲い、敷居などを中に施し、表面が扉をつけた収納できるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "掘るための道具は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "上手くいっていることは？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "すねの前面のことを何というか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "文字資料に乏しい時代は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "漢字はどれ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "物を捨てるものは？",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "企業や個人の連絡先の番号が記載されている本のようなものをなんという？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ビールの飲みすぎで出てくる部位はどこ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人が住む住宅は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "名古屋市がある県は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "夏に打ち上げられる催しは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "桜の葉が色着く事をなんと言う？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ファーストフードでよく食べるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ビルや家などをまとめてなんという？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ほうれん草などの惣菜のことを、何という?",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "机についているのは？",
+      "gold": 3,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "部屋をきれいにするために使う機械は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "トイレに向かうことを下品に言うと何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "マンガのタイトルにもなったのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "LEDライトが評価される点のひとつは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "太っているのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "火事を知らせる装置？？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人それぞれなのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "車が走るために必要な物で、４個付いているものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "マレーシアがあるところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "オーストラリアの隣にある島国は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "グラス等に使われる割れやすいものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "船舶を安定させる物と同じ発音なのは、どれでしょう？",
+      "gold": 1,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "5月に食べるのは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "読みたい時ひ先ずすることは？",
+      "gold": 2,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "合成樹脂でできたものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "深い悲しみは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "パーは紙、チョキはハサミ、グーは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "貴人のむすめを敬っていうことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "畑に出てする仕事のことを何と言いますか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "四角い入れ物は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "お店に行って支払いすることを何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "家が建っている下にあるものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "誕生日やクリスマスなど、みんなで集まってすることはなに？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "店名や広告などが書かれている板は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "車などを入れるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "この中でドアを開けるために使用するものはどれか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "郵便物・郵便貯金などの事務を取り扱う機関のことを何と言いますか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "昔からある賃貸の集合住宅は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "いつかの出番のために眠ってあるものは？",
+      "gold": 3,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "海上の遠くを観ると、ヨットなど船のマストだけが、見えるような光景の場所は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "飲む行為により摂取する液状のものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "駿河湾の名産品といえば？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "夜降る雨のこととは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "河川や湖の一部が段差になっているため、水が落下している場所を何というか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "歩くより早めなことを何と言う？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "由来が英語から来ているのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "家電の商品とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "暗いところを照らすのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "サックスの略称で呼ばれるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "美容院に行かなければ、気になってくることは？",
+      "gold": 2,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "夏の風物詩で、長岡や墨田川で行われるのが有名なものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "一般的に、女性が化粧をすると？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "食べる対象の総称を何というか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "家にあるものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ダンサーや歌手の発表の場は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "文字などを書いたりする文房具は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "フェスをやるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ゆうパックとかの贈り物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "楽器を演奏したり歌を歌ったり、またそれを聴く場所は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "炭水化物・脂質とあわせて三大栄養素の１つは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人の骨盤近くにある部分は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "顔写真を貼り、学歴、賞罰などを書くのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "熱帯雨林のことをなんていう？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "アメリカンショートヘアやロシアンブルーは、何科の動物ですか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "日本語で映画館は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "徳手にの目的なく、ぶらぶらすることは？",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "ハヤブサ跳び、二重跳びなどの技がある遊びはどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "ちょっと休むことは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "自分が住むところは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "家の外にでかけることを何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "何かを記念したり称えたりするために作られた有形の作品のことをなんという？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人間は？",
+      "gold": 4,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "朝夕は？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "空気中の水蒸気が氷の結晶になったものを何と言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "戦争などがない穏やかな状態は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "抑揚のない発音は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ドイツやフランスがある世界の地域のことを何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "全世界の願いは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "魚や貝等の総称と言えば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "単体、それのみで存在してもあまり役に立たないものはどれ？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "床に敷き詰めるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "水に戻して使う食品は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "地球上の一つのまとまりは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "日本で最大の蔵書数があるところは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "アメリカの州の一つ。オアフ島などの島々の総称は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "布と布を縫ったところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "街にあるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "この中で、しきたりはどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "身体の自由が利かず動けない状態とは？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "この２人がいなければ自分の存在がこの世の中にはないと思える人とは誰か？",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "主として木造建造物の建築・修理を行う職人のことは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "自分の非を認め許しを請う事は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "本を入れてあるところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "お店の入り口付近やレジ近くの事を何という?",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "葬儀で着用する服は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "音楽的な高低・調子などをつけて発声することを何と言うか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "レールの上で走るのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "家に帰ってきてから手を洗う場所は？",
+      "gold": 3,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "朝に飲む汁物を何と呼ぶ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "猿が進化して今にいたるものは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "場所取りする宴会とは？",
+      "gold": 1,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "階段を降りるときにつかむものは何と呼ぶ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "食用にするものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "電車が止まるところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "お菓子で、なめると徐々に溶けてなくなっていくものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "日本の首都は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "家から出る場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "宣伝を目的にして配る紙状のものは何？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "文章表記で文字を囲う記号は何？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "この地球上で息をしている物を表す言葉は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "車の基本骨格のことを何と言いますか？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "要らなくなっものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "次のうち、筆記用具はどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "なつといえば？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "石川県の県庁所在地を何市と言うか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "上司に仕える人のことを何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人間は左右5本ずつ、合わせて10本あるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "寒い時期は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "スパリゾートハワイアンズがある場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "笑顔になった時の表現は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "カチカチに凍ってしまうことを何付くという？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "お店で無料のものや有料のものもあるスペースは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "物が潰される様を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "飛行機などの後端付近に取り付けられたものを何と呼ぶ？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "空気の入れ替えをするのに必要なのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "かなの一種は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "多人数でかける物は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "家で料理を作るところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "セブンイレブンやローソンといえば、どんなお店のこと？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "授業内容の理解を図るイベントは？",
+      "gold": 3,
+      "pred": 0,
+      "correct": false,
+      "response": "0\n"
+    },
+    {
+      "question": "強い風と共に降る雨は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ドリンクを言い換えると？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "月ごとに咲く代表的な花をそれぞれの月に配したものを何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "人間はどれ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "地域の治安をまもる職業は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "軍隊の軍人を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "体調が悪い時に行くのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "デブを言い換えると？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "クラシックの曲で有名な、ドイツにある川は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "仲のよい夫婦の例えとされる鳥の名前は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "都会の反対は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "鑑賞、観戦を主な目的とした観客を集めることを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "複数の戸建て住宅が連なって作られている住宅はなに？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "植物が生えていない大自然の場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "しっぽのけものはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "よくわかるように述べることは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "外交能力を備えた地域のことを？",
+      "gold": 3,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "畑で栽培するものは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "管楽器で横笛なのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "一般的に装飾品のリングをはめる部位は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "人ができないことを実現するために用いるの？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "コンピュータ間の電話をする機械を何という？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ビルと言えば？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "プレゼントに人気のある文房具は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "働くことは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "個人的嗜好は？",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "この中であいうえお順に並べると最初に来る単語はどれですか？",
+      "gold": 1,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "戸や障子などの建具の取り付け、またその開閉のぐあいのこと？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人間にとって必要なのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "応援する人が座るところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人が住むところを何というか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "手軽に印刷できる便利な機械は何でしょうか？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "国を愛する心は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ペンに入っているのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "豊島区にあるのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "自動車の後ろにある空間は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "音楽的な高低・調子などをつけて発声することは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "日々の努力で手に入れられる物は何？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "２人の人は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "この中ですがすがしいを意味する言葉はどれか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "有料でジュースや定食を食べれるところは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "なじむことを何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "家電をうごかすものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "絨毯の中などに生息する小さな虫は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "水などを注ぐガラス製品の容器は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "野菜や果物を売っているおみせは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "和歌・俳句・詩など韻文の総称を何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人間の体内は70%の何でできている？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "丸い物を何をおびるという？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "星などを背景にすることによって、黒く浮かび上がって見えるのは？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "地面の下を走る鉄道は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "正しくない指示を出すことを？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "茶碗などを入れる家具のなまえは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人々の共同社会のことを何と呼ぶ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "仏教のための宗教施設は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "車の車輪についているゴム製のものと言えば？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "建物内部を壁などで区切ったスペースは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "茶色くて甘いものから苦いものまである食べ物は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "多くの人に食事を提供するのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "アメリカにしかないのはどれ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "本を買う場所は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "思い出すこと？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "商品の売り買いをする場所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "シンデレラが乗るのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ピアノを名称で言うと？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "手洗った時使うのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "犬を売っているところは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "商品を触れる場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人の性質は？",
+      "gold": 0,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "CO2を排出する枠は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "自分の容姿に納得がいかない人に多いことは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "一階のつぎを？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "国家を統治する機関は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "お節介で手伝ったり等あまり良い意味で使われない行為を何と言う？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "数字を足したり引いたりすることをいう言葉は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "足にあるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "物を置くのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "日々の出来事を記録した帳面は何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "出家して仏門にはいった人は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "靴に当たるといたいのは？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "ゴルフクラブでカップに入れるときに使用するのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ご飯食べたりする場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "英語でスチームはなんていう？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "作曲家・指揮者・声楽家・器楽奏者などの人々は何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "ブラウン管や液晶、プラズマなどの家電は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "究極なのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "主に床に敷いて使用するものは？？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "乱暴な行為をすることを何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "庭で育てるものは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "勉強しにいくとこは?",
+      "gold": 0,
+      "pred": 4,
+      "correct": false,
+      "response": "4\n"
+    },
+    {
+      "question": "成功することをなんという？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "家の丁寧な言い方は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人間や動物など呼吸をするものたちのことを何という？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "乳幼児が食べるものの名称は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "アフリカ大陸とアラビア半島との間の細長い湾を何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "空を撮影したものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "歌手が行うリサイタルは?",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "顔を洗うのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "人が求めるのは名声と何？",
+      "gold": 1,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "物を出し入れするものの名称は?",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "タンスにぶつけて痛いとよく言われる足の部分は？",
+      "gold": 0,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "ダイヤの指輪を買えるところはどこ？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "人に勝っている気持ちは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "人が住むための高層階の建物は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "親の父親は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "生理現象なのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "身体に一番負担がかかる作業は？",
+      "gold": 2,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "木が沢山生息しているところは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "オムロンや東芝が作っている、入場時のチェックのために駅の入口などに設置されたものは何？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "中継している場所は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ボタンのかわりにオシャレにするアイテムは？",
+      "gold": 0,
+      "pred": 3,
+      "correct": false,
+      "response": "3\n"
+    },
+    {
+      "question": "植物で涼しくするのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "記事を書くために調べるものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "夜空を彩る夏の風物詩は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "アラビア半島は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "何かをして愉快な気もちになることを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "橋を英語で言うと？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "生物の中で、唯一人間が使える、相手に伝える手段とは?",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "体が細長く四肢が退化しているものは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "トンネルのような通路は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "長い竿に仕掛けをつけて海や川の生き物を捉えることをしている人のことをなんと呼ぶ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "アフリカにある壁画や神殿で有名な国は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "介入すること？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "地球はこの周りを回っています。これは何？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "親しいともだちは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "カビの元になるのは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "町の中を表す言い方は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "ぜんざいの材料は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "床の構造は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "メールですることは？",
+      "gold": 0,
+      "pred": 1,
+      "correct": false,
+      "response": "1\n"
+    },
+    {
+      "question": "言葉を調べるものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "泳ぐ際にまだ未熟な人が使用するのは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "水が勢いよく落ちているのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "水泳をするところは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "書籍を表す単語はどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "この中で誰しもが一番嫌いな物はどれか？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "一般の人々はどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "都会の反対は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "床の下は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "学校で生徒が勉強する場所はどこ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "眠れない、気分の落ち込み、ひきこもり、不安、そら耳体験、ひどく疑い深くなる、物忘れなどは、精神疾患の症状により起こるなどの症状が表れる人の事を何という？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "世界で最も長い山脈はどこ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "商品売買の抽象的な考え方は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "製品を貯蔵する場所は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "planを訳すと？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "植物がするものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "カップメンをつくるのに注ぐものは何？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "公衆電話が取り付けてある箱型の小さな建物とは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "野生動物を捕獲することを何という？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "地球の北の果ての地域はどこ？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "恐ろしいものと関係がありそうなのはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "かもめがよくいるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "任期6年の国会議院はどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "宿泊できる喫茶は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "音楽を聴くときは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "身体が、なまったら？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "団地に住んでいる主婦のことを？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "掃いたり、拭いたりしてきれいにすることは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "見るための場所は？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "満開の桜が散る様とは？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "材料の表面を塗料の皮膜で覆う表面処理を何と言う？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "雪の積もった斜面を滑ることは何と言う？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "喉が渇いたときにする行動を具体的にいうと？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "リズムにあるのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "素晴らしい体験をしたときになる気持ちは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "アメリカのマサチューセッツ工科大学が設立したコンピューターの新しい利用方法を研究する機関は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "フェレットは何属か？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "窓を拭くときに使う洗剤は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "スープをすべて飲むことなんという？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "孫をずっと見ていたいと思ったら、どうしますか？",
+      "gold": 4,
+      "pred": 2,
+      "correct": false,
+      "response": "2\n"
+    },
+    {
+      "question": "主に食品を販売する所は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "レストランはどれ？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "心身の健康を維持するためのメンテナンス時間が一日平均8時間と言われているが、何を示す？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "文字だけでは伝わりにくい時に伝わりやすくしたものは？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "ニワトリが産むのは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "神経活動の中枢をなす器官はどれですか？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "会社で人の管理を行う部署は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "風に備える防災林の一種とは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "雷がピカッとなることは何と言う？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "感染するのは？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "サッカー場の地面を埋めているものは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "フランスにある有名な川は何？",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "response": "3\n"
+    },
+    {
+      "question": "目に見えないものがそこのにあるかのように見えることを何という？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "つい最近リサイクルが叫ばれる様になったペットボトル等の原材料は？",
+      "gold": 0,
+      "pred": 0,
+      "correct": true,
+      "response": "0\n"
+    },
+    {
+      "question": "子供向けのメニューは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "外国映画のうち欧米で制作された映画は？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "咳や鼻水がでる軽度の病気は？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "化粧する時顔に書くところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "砂丘のある県の町は？",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "response": "4\n"
+    },
+    {
+      "question": "ドーパミンやセロトニンの持つ効果はどれ？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    },
+    {
+      "question": "犬が住むところは？",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "response": "1\n"
+    },
+    {
+      "question": "この中で実験に使われることがあるのは？",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "response": "2\n"
+    }
+  ]
+}

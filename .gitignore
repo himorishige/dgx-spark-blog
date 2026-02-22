@@ -1,0 +1,24 @@
+# Large model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Checkpoints
+**/checkpoints/
+
+# Backup data
+**/backup-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

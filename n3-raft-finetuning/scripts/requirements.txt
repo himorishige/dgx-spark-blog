@@ -1,0 +1,4 @@
+# N3 RAFT Data Preparation Dependencies
+datasets>=3.0.0
+anthropic>=0.40.0
+tqdm>=4.60.0
