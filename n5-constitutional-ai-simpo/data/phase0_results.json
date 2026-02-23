@@ -1,0 +1,30 @@
+{
+  "phase0_verification": {
+    "date": "2026-02-22",
+    "environment": {
+      "container": "nvcr.io/nvidia/nemo:25.11.01",
+      "torch": "2.9.0a0+50eac811a6.nv25.09",
+      "trl": "0.28.0",
+      "peft": "0.13.2",
+      "device": "NVIDIA GB10",
+      "cuda": "13.0"
+    },
+    "results": {
+      "simpo": {
+        "status": "GO",
+        "peak_memory_gb": 17.4,
+        "note": "device_map='auto' caused meta device gradient error. Fixed by .to('cuda')."
+      },
+      "dpo": {
+        "status": "GO",
+        "peak_memory_gb": 27.4
+      },
+      "orpo": {
+        "status": "GO",
+        "peak_memory_gb": 33.3
+      }
+    },
+    "recommendation": "simpo",
+    "fix_applied": "Replaced device_map='auto' with .to('cuda') to prevent Mamba-2 layer offloading."
+  }
+}

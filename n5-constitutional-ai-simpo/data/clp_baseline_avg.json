@@ -1,0 +1,21 @@
+{
+  "model": "nemotron-9b-jp-nothink",
+  "judge_model": "claude-haiku-4-5-20251001",
+  "total_prompts": 50,
+  "runs": 2,
+  "overall_average": 4.76,
+  "clp_averages": {
+    "leadership": 4.7,
+    "partnership": 4.8,
+    "diversity": 5.0,
+    "professional": 4.8,
+    "gratitude": 5.0,
+    "customer_focus": 4.6,
+    "feedback": 4.7,
+    "information_sharing": 4.8,
+    "try_it": 4.6,
+    "enjoy": 4.6
+  },
+  "run1_overall": 4.8,
+  "run2_overall": 4.72
+}
