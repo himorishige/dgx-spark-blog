@@ -1,0 +1,1320 @@
+{"qa_id": "test_World_History_150", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_149", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_148", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_147", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_146", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_145", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_World_History_144", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_143", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_142", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_141", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_140", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_139", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_138", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_137", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_136", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_World_History_135", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_World_History_134", "subject": "World_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_World_History_133", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_132", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_131", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_130", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_World_History_129", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_128", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_127", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_126", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_125", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_World_History_124", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_World_History_123", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_122", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_121", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_120", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_World_History_119", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_118", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_117", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_116", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_115", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_114", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_113", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_112", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_111", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_110", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_109", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_108", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_107", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_106", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_105", "subject": "World_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_World_History_104", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_103", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_102", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_101", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_100", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_99", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_98", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_97", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_96", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_95", "subject": "World_History", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_World_History_94", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_93", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_World_History_92", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_World_History_91", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_90", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_89", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_88", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_World_History_87", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_86", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_85", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_84", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_83", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_82", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_81", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_80", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_79", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_78", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_77", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_76", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_75", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_74", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_73", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_72", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_71", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_World_History_70", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_69", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_68", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_67", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_66", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_65", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_64", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_63", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_World_History_62", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_61", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_60", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_59", "subject": "World_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_World_History_58", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_57", "subject": "World_History", "correct": 0.0, "candidate": "世宗", "expected": "C"}
+{"qa_id": "test_World_History_56", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_55", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_World_History_54", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_53", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_52", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_51", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_50", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_49", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_48", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_47", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_46", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_45", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_44", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_World_History_43", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_42", "subject": "World_History", "correct": 0.0, "candidate": "ビザンツ様式", "expected": "D"}
+{"qa_id": "test_World_History_41", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_40", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_39", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_38", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_37", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_36", "subject": "World_History", "correct": 0.0, "candidate": "国土回復運動", "expected": "D"}
+{"qa_id": "test_World_History_35", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_34", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_33", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_32", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_31", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_30", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_World_History_29", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_28", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_World_History_27", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_26", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_25", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_24", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_23", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_22", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_21", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_20", "subject": "World_History", "correct": 0.0, "candidate": "甲羅", "expected": "D"}
+{"qa_id": "test_World_History_19", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_18", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_17", "subject": "World_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_World_History_16", "subject": "World_History", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_World_History_15", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_World_History_14", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_World_History_13", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_World_History_12", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_11", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_10", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_9", "subject": "World_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_World_History_8", "subject": "World_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_World_History_7", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_6", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_5", "subject": "World_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_World_History_4", "subject": "World_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_World_History_3", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_2", "subject": "World_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_World_History_1", "subject": "World_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Public_Health_30", "subject": "Public_Health", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Public_Health_29", "subject": "Public_Health", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Public_Health_28", "subject": "Public_Health", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Public_Health_27", "subject": "Public_Health", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Public_Health_26", "subject": "Public_Health", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Public_Health_25", "subject": "Public_Health", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Public_Health_24", "subject": "Public_Health", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Public_Health_23", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_22", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_21", "subject": "Public_Health", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Public_Health_20", "subject": "Public_Health", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Public_Health_19", "subject": "Public_Health", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Public_Health_18", "subject": "Public_Health", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Public_Health_17", "subject": "Public_Health", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Public_Health_16", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_15", "subject": "Public_Health", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Public_Health_14", "subject": "Public_Health", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Public_Health_13", "subject": "Public_Health", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Public_Health_12", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_11", "subject": "Public_Health", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Public_Health_10", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_9", "subject": "Public_Health", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Public_Health_8", "subject": "Public_Health", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Public_Health_7", "subject": "Public_Health", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Public_Health_6", "subject": "Public_Health", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Public_Health_5", "subject": "Public_Health", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Public_Health_4", "subject": "Public_Health", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Public_Health_3", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_2", "subject": "Public_Health", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Public_Health_1", "subject": "Public_Health", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Psychology_30", "subject": "Psychology", "correct": 0.0, "candidate": "この問題の正解は、提示されたグラフの形状から判断すると、**「逆U字型」**（覚醒レベルが中程度でパフォーマンスが最大になる）のグラフを選択することになります。\n\nしかし、ご提示いただいた画像内のグラフは、覚醒レベルが上がるとパフォーマンスが下がり", "expected": "E"}
+{"qa_id": "validation_Psychology_29", "subject": "Psychology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Psychology_28", "subject": "Psychology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Psychology_27", "subject": "Psychology", "correct": 0.0, "candidate": "A", "expected": "E"}
+{"qa_id": "validation_Psychology_26", "subject": "Psychology", "correct": 0.0, "candidate": "4", "expected": "C"}
+{"qa_id": "validation_Psychology_25", "subject": "Psychology", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Psychology_24", "subject": "Psychology", "correct": 0.0, "candidate": "延髄", "expected": "D"}
+{"qa_id": "validation_Psychology_23", "subject": "Psychology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Psychology_22", "subject": "Psychology", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Psychology_21", "subject": "Psychology", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Psychology_20", "subject": "Psychology", "correct": 0.0, "candidate": "A", "expected": "胎芽"}
+{"qa_id": "validation_Psychology_19", "subject": "Psychology", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Psychology_18", "subject": "Psychology", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Psychology_17", "subject": "Psychology", "correct": 0.0, "candidate": "この質問には、比較対象となる選択肢の画像（`<image 1>`〜`<image 5>`）が表示されていないため、画像の内容を確認することができません。\n\nしかし、提示された元のグラフは**「ヤーキーズ・ドットソンの法則（Yerkes-Dodson law）」**を表しています", "expected": "A"}
+{"qa_id": "validation_Psychology_16", "subject": "Psychology", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Psychology_15", "subject": "Psychology", "correct": 0.0, "candidate": "観察学習", "expected": "E"}
+{"qa_id": "validation_Psychology_14", "subject": "Psychology", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Psychology_13", "subject": "Psychology", "correct": 1.0, "candidate": "E", "expected": "E"}
+{"qa_id": "validation_Psychology_12", "subject": "Psychology", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Psychology_11", "subject": "Psychology", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Psychology_10", "subject": "Psychology", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Psychology_9", "subject": "Psychology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Psychology_8", "subject": "Psychology", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Psychology_7", "subject": "Psychology", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Psychology_6", "subject": "Psychology", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Psychology_5", "subject": "Psychology", "correct": 0.0, "candidate": "この図の矢印が指している部分は、前頭葉（図ではピンク色）の一部ですが、提示された選択肢の中では、脳の表面を覆う組織全体を指す「大脳皮質」が、この図の構造的な分類において最も関連が深い、あるいは選択肢の", "expected": "D"}
+{"qa_id": "validation_Psychology_4", "subject": "Psychology", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Psychology_3", "subject": "Psychology", "correct": 0.0, "candidate": "A", "expected": "E"}
+{"qa_id": "validation_Psychology_2", "subject": "Psychology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Psychology_1", "subject": "Psychology", "correct": 0.0, "candidate": "このグラフは、心理学における**ヤーキーズ・ドットソンの法則（Yerkes-Dodson law）**を示しています。\n\nグラフの軸を確認すると：\n*   **縦軸（パフォーマンス）**: 低 (Low) $\\rightarrow$ 高 (High)\n*   **横軸（", "expected": "A"}
+{"qa_id": "validation_Physics_30", "subject": "Physics", "correct": 0.0, "candidate": "D", "expected": "E"}
+{"qa_id": "validation_Physics_29", "subject": "Physics", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Physics_28", "subject": "Physics", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Physics_27", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_26", "subject": "Physics", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Physics_25", "subject": "Physics", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Physics_24", "subject": "Physics", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Physics_23", "subject": "Physics", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Physics_22", "subject": "Physics", "correct": 0.0, "candidate": "この問題の考え方は以下の通りです。\n\n1.  **エネルギー差の比較**: ボーアモデルにおいて、電子がより低いエネルギー準位へ遷移する際、放出される光のエネルギー $E$ は、遷移する2つの準位のエネルギー差に等しくなります（$E = E", "expected": "D"}
+{"qa_id": "validation_Physics_21", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_20", "subject": "Physics", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Physics_19", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_18", "subject": "Physics", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Physics_17", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_16", "subject": "Physics", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Physics_15", "subject": "Physics", "correct": 0.0, "candidate": "この問題は、薄膜干渉における位相の変化を考慮して解きます。\n\n1.  **反射光の位相変化の確認**:\n    *   第1界面（$n_1$ から $n_f$ へ）：$n_1 < n_f$ なので、屈", "expected": "D"}
+{"qa_id": "validation_Physics_14", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_13", "subject": "Physics", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Physics_12", "subject": "Physics", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Physics_11", "subject": "Physics", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Physics_10", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_9", "subject": "Physics", "correct": 0.0, "candidate": "この問題は、棒の静止状態における力のつり合いとモーメント（トルク）のつり合いを考えるものです。\n\n1.  **力のつり合い**: 棒には、重力、壁からの垂直抗力、壁からの摩擦力、およびロープによる張力がは", "expected": "B"}
+{"qa_id": "validation_Physics_8", "subject": "Physics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Physics_7", "subject": "Physics", "correct": 0.0, "candidate": "D", "expected": "E"}
+{"qa_id": "validation_Physics_6", "subject": "Physics", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Physics_5", "subject": "Physics", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Physics_4", "subject": "Physics", "correct": 0.0, "candidate": "この問題は、スネルの法則を用いてプラスチックの屈折率を求め、そこから光の速度を計算する問題です。\n\n1.  **入射角と屈折角の特定**:\n    図において、法線（境界線に対して垂直な線）と光の線のなす", "expected": "D"}
+{"qa_id": "validation_Physics_3", "subject": "Physics", "correct": 0.0, "candidate": "左", "expected": "B"}
+{"qa_id": "validation_Physics_2", "subject": "Physics", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Physics_1", "subject": "Physics", "correct": 0.0, "candidate": "左", "expected": "A"}
+{"qa_id": "validation_Pharmacy_30", "subject": "Pharmacy", "correct": 0.0, "candidate": "提供された栄養成分表示ラベルのデータに基づき、計算を行います。\n\n**a. 変換係数の算出**\nラベルの「コーンクランチ（シリアルのみ）」のデータ（右側の列）を使用します。\n*   脂肪のグラム数 = 2g\n*   脂肪由来の", "expected": "D"}
+{"qa_id": "validation_Pharmacy_29", "subject": "Pharmacy", "correct": 0.0, "candidate": "3-ペンタノン", "expected": "C"}
+{"qa_id": "validation_Pharmacy_28", "subject": "Pharmacy", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Pharmacy_27", "subject": "Pharmacy", "correct": 0.0, "candidate": "この問題は、各ステップの物質量（mol）と収率（%）の関係を順番に計算することで解くことができます。各ステップの反応は1:1の物質量比であることに注意してください。\n\n**1. 化合物Bから化合物Cへの収率を求める**\n*   ", "expected": "D"}
+{"qa_id": "validation_Pharmacy_26", "subject": "Pharmacy", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Pharmacy_25", "subject": "Pharmacy", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Pharmacy_24", "subject": "Pharmacy", "correct": 0.0, "candidate": "トポイソメラーゼ毒", "expected": "A"}
+{"qa_id": "validation_Pharmacy_23", "subject": "Pharmacy", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Pharmacy_22", "subject": "Pharmacy", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Pharmacy_21", "subject": "Pharmacy", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Pharmacy_20", "subject": "Pharmacy", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Pharmacy_19", "subject": "Pharmacy", "correct": 1.0, "candidate": "この一連の反応において、位置選択的な反応は **Step B** です。\n\n**解説:**\n*   **Step A:** $\\text{NaHCO}_3$ による脱離反応です。エポキシドが生成されていますが、この段階では反応点（メシル基の炭素）", "expected": "B"}
+{"qa_id": "validation_Pharmacy_18", "subject": "Pharmacy", "correct": 0.0, "candidate": "グラフ 1", "expected": "A"}
+{"qa_id": "validation_Pharmacy_17", "subject": "Pharmacy", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Pharmacy_16", "subject": "Pharmacy", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Pharmacy_15", "subject": "Pharmacy", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Pharmacy_14", "subject": "Pharmacy", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Pharmacy_13", "subject": "Pharmacy", "correct": 0.0, "candidate": "間違い", "expected": "B"}
+{"qa_id": "validation_Pharmacy_12", "subject": "Pharmacy", "correct": 0.0, "candidate": "間違い", "expected": "A"}
+{"qa_id": "validation_Pharmacy_11", "subject": "Pharmacy", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Pharmacy_10", "subject": "Pharmacy", "correct": 0.0, "candidate": "イオン結合", "expected": "B"}
+{"qa_id": "validation_Pharmacy_9", "subject": "Pharmacy", "correct": 0.0, "candidate": "a", "expected": "A"}
+{"qa_id": "validation_Pharmacy_8", "subject": "Pharmacy", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Pharmacy_7", "subject": "Pharmacy", "correct": 0.0, "candidate": "a,b", "expected": "A"}
+{"qa_id": "validation_Pharmacy_6", "subject": "Pharmacy", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Pharmacy_5", "subject": "Pharmacy", "correct": 0.0, "candidate": "この化学反応における酸化数（酸化状態）の変化を確認します。\n\n1.  **反応物側:**\n    *   $\\text{NaBH}_4$: $\\text{Na}$は$+1$、$\\text{H}$は$-1$、$\\text{B}$は$+3$です", "expected": "D"}
+{"qa_id": "validation_Pharmacy_4", "subject": "Pharmacy", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Pharmacy_3", "subject": "Pharmacy", "correct": 0.0, "candidate": "4", "expected": "2"}
+{"qa_id": "validation_Pharmacy_2", "subject": "Pharmacy", "correct": 0.0, "candidate": "ムスカリン受容体", "expected": "E"}
+{"qa_id": "validation_Pharmacy_1", "subject": "Pharmacy", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Music_30", "subject": "Music", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Music_29", "subject": "Music", "correct": 0.0, "candidate": "画像内の楽譜に基づくと、問題文が欠落していますが、一般的にこのような形式の音楽理論問題では、特定の記号や音符、休符の数、あるいは特定の指示語（強弱記号など）を問うものが多いです。\n\n提示された画像には「問題」自体が", "expected": "D"}
+{"qa_id": "validation_Music_28", "subject": "Music", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Music_27", "subject": "Music", "correct": 0.0, "candidate": "2", "expected": "C"}
+{"qa_id": "validation_Music_26", "subject": "Music", "correct": 0.0, "candidate": "間違い", "expected": "B"}
+{"qa_id": "validation_Music_25", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_24", "subject": "Music", "correct": 0.0, "candidate": "この問題の解答は以下の通りです。\n\nキーが **Bbメジャー** であることを踏まえて、各コードを分析します。\n\n*   **A:** コードの構成音は F, Bb, D です。これは Bbメジャー・スケールの第5音（F）から始まるコードで", "expected": "D"}
+{"qa_id": "validation_Music_23", "subject": "Music", "correct": 0.0, "candidate": "ボックス 1", "expected": "C"}
+{"qa_id": "validation_Music_22", "subject": "Music", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Music_21", "subject": "Music", "correct": 0.0, "candidate": "この問題の楽譜を確認すると、11小節目（ページ5の1つ目のシステム、11小節目）において、以下の音符が確認できます。\n\n*   **第3ホルン（Horn III）**: 楽譜上では「Clarinetti in A II」のすぐ下の", "expected": "C"}
+{"qa_id": "validation_Music_20", "subject": "Music", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Music_19", "subject": "Music", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Music_18", "subject": "Music", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Music_17", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_16", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_15", "subject": "Music", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Music_14", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_13", "subject": "Music", "correct": 0.0, "candidate": "AC", "expected": "C"}
+{"qa_id": "validation_Music_12", "subject": "Music", "correct": 0.0, "candidate": "間違っている", "expected": "A"}
+{"qa_id": "validation_Music_11", "subject": "Music", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Music_10", "subject": "Music", "correct": 0.0, "candidate": "誤り", "expected": "B"}
+{"qa_id": "validation_Music_9", "subject": "Music", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Music_8", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_7", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_6", "subject": "Music", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Music_5", "subject": "Music", "correct": 0.0, "candidate": "偽", "expected": "B"}
+{"qa_id": "validation_Music_4", "subject": "Music", "correct": 0.0, "candidate": "この楽譜の拍子記号は「4/4」です。\n\n1小節の拍の数を確認します：\n1. 第1小節：4分休符(1) + 8分音符(0.5) + 16分音符(0.2", "expected": "B"}
+{"qa_id": "validation_Music_3", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Music_2", "subject": "Music", "correct": 0.0, "candidate": "間違っている", "expected": "A"}
+{"qa_id": "validation_Music_1", "subject": "Music", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Mechanical_Engineering_30", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Mechanical_Engineering_29", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、回転体（ディスク）のねじり運動に関する等価ねじりばね定数を求めるものです。\n\n1.  **軸方向のねじりばねの合成**:\n    $k_1, k_2, k_3, k_4$ はすべて", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_28", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、制御システムの定常誤差を求める問題です。\n\n### 1. 開ループ伝達関数 $G(s)H(s)$ の特定\n図より、前向き伝達関数 $G(s)$ とフィードバック伝達関数 $H(s)$ は以下の通り", "expected": "C"}
+{"qa_id": "validation_Mechanical_Engineering_27", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、ゲートABにかかる静水圧とゲート自体の重力によるモーメントの釣り合いを考える問題です。\n\n**1. ゲートの重力によるモーメント ($M_W$):**\nゲートの重さ $W = 3000 \\text{ l", "expected": "C"}
+{"qa_id": "validation_Mechanical_Engineering_26", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_25", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、温度変化による熱膨張が両端の固定壁によって拘束されることで発生する反力を求めるものです。\n\n### 1. 基本的な考え方\n棒が温度上昇 $\\Delta T$ を受けると、自由な状態であれば長さ $\\delta_{free}$ だけ伸びようと", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_24", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、両端が固定された梁の熱応力を求めるものです。\n\n1.  **熱膨張によるひずみ ($\\epsilon_{th}$)**:\n    温度が $\\Delta T$ 上昇したとき、梁が自由に膨張しようとするひずみは以下の式で表", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_23", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題の解き方は以下の通りです。\n\n1.  **溶接棒の強度（許容せん断応力）の特定:**\n    E60シリーズの溶接棒は、引張強さ $S_u = 60\\text{ ksi}$ を持ちます。", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_22", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、ボルトの予荷重と外部荷重による応力変化を扱う機械設計の問題です。\n\n**1. 与えられた条件の整理:**\n*   外部荷重の変動範囲: $F_e = 0$ から $8,000 \\text{ lb}$\n", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_21", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題を解くために、運動を3つの段階に分けて考えます。重力加速度を $g = 9.8 \\text{ m/s}^2$ とします。\n\n### 1. スラスター作動中（$t = 0$ から $t = 8\\", "expected": "A"}
+{"qa_id": "validation_Mechanical_Engineering_20", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、最大垂直応力理論（Rankine理論）を用いて、材料が降伏を開始する荷重を求めるものです。\n\n**1. 最大垂直応力理論の定義:**\n最大垂直応力理論によれば、材料は最大主応力 $\\sigma_{max}$ が降伏強度 $", "expected": "D"}
+{"qa_id": "validation_Mechanical_Engineering_19", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、ばね定数とばねの長さの関係、および質量とばね定数から決まる固有周期の公式を用いて解くことができます。\n\n### 1. 基本的な関係式\nばねの剛性係数（ばね定数）$k$ は、ばね", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_18", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、複数の回転が組み合わさった系の角加速度を求めるものです。\n\n1.  **角速度ベクトルの定義:**\n    各回転の角速度ベクトルを定義します。\n    *   全体の回転（$X$軸周り）: $\\boldsymbol{\\omega}_1", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_17", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Mechanical_Engineering_16", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "エネルギー保存の法則を用いて計算します。\n\n1.  **初期状態のエネルギー**:\n    ブロックが高さ $h$ から落下する直前の位置を基準（高さ0）とすると、ブロックの重力による位置エネルギーは $W \\cdot h$ です。\n    ただし、バネが", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_15", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Mechanical_Engineering_14", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題の解き方は以下の通りです。\n\n### (a) システムの運動エネルギー $K$ の計算\nシステムの運動エネルギーは、質量（落下する物体）の運動エネルギーと、ドラムの回転運動エネルギーの合計です。\n\n1.  **物体の運動エネルギー ($K_{trans", "expected": "A"}
+{"qa_id": "validation_Mechanical_Engineering_13", "subject": "Mechanical_Engineering", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Mechanical_Engineering_12", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Mechanical_Engineering_11", "subject": "Mechanical_Engineering", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Mechanical_Engineering_10", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、2つの異なる材料（鋼鉄とアルミニウム）が並列に配置された棒の合成ばね定数を求めるものです。\n\n**1. 与えられた値を整理します：**\n*   **長さ ($L$):** $0.5\\text{ m}$\n", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_9", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題を解くために、まずシステムの開ループ伝達関数と閉ループ伝達関数を求めます。\n\n### 1. 伝達関数の導出\nブロック線図から、システムの伝達関数を求めます。\n中間部分の伝達関数を $G_p(s)", "expected": "C"}
+{"qa_id": "validation_Mechanical_Engineering_8", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題を解くために、万有引力の法則を用います。\n\n宇宙船 $S$ が太陽と地球から受ける引力が等しいとき、以下の式が成り立ちます。\n$$G \\frac{M_S \\cdot m}{r_S^2} = G \\frac{", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_7", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題は、与えられたウォームギアの設計パラメータ（回転数、寸法、材料、歯数など）を用いて、曲げ強度と表面疲労（ピッチング）の限界から、許容できる入力電力と出力電力を推定するものです。\n\n問題文の指示に従い、", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_6", "subject": "Mechanical_Engineering", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Mechanical_Engineering_5", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "まず、システムの特性方程式を求めます。\n\n1.  **開ループ伝達関数 $G(s)H(s)$ の算出**\n    前向き伝達関数 $G(s) = \\frac{K(s+1)}{s(s+2)(s+3)}$\n", "expected": "A"}
+{"qa_id": "validation_Mechanical_Engineering_4", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "この問題の解法は以下の通りです。\n\n### 1. 反力と曲げモーメントの計算\nまず、梁にかかる荷重 $q(x) = \\frac{q_0}{L}x$ による反力を求めます。\n全荷重 $W$ は、三角形の", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_3", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Mechanical_Engineering_2", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Mechanical_Engineering_1", "subject": "Mechanical_Engineering", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Math_30", "subject": "Math", "correct": 0.0, "candidate": "この問題は、正方形 $ABCD$ の中に、辺の長さ $s$ の正六角形 $APQCRS$ が含まれている状況を解くものです。\n\n1.  **正六角形の性質**:\n    正六角形のすべての内角は $120^\\circ", "expected": "C"}
+{"qa_id": "validation_Math_29", "subject": "Math", "correct": 0.0, "candidate": "この問題は、オイラー法（Euler's method）を用いて微分方程式 $\\frac{dy}{dx} = f'(x)$ を解く問題です。\n\n**1. 与えられた条件の整理**\n*   初期値: $x_0 = -1$, $y_0", "expected": "A"}
+{"qa_id": "validation_Math_28", "subject": "Math", "correct": 0.0, "candidate": "いいえ", "expected": "A"}
+{"qa_id": "validation_Math_27", "subject": "Math", "correct": 0.0, "candidate": "円の弦の性質（方べきの定理）により、2つの弦 $\\overline{AB}$ と $\\overline{CD}$ が点 $E$ で交わるとき、以下の関係が成り立ちます。\n\n$$AE \\cdot EB = CE \\cdot ED$$\n\n与えられた値を代入すると", "expected": "A"}
+{"qa_id": "validation_Math_26", "subject": "Math", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Math_25", "subject": "Math", "correct": 0.0, "candidate": "この問題は、物体の速度成分から衝突時の角度を求めるものです。\n\n1.  **速度成分の整理:**\n    与えられた速度の微分（速度成分）は以下の通りです。\n    *   水平方向の速度: $v_x(t) = \\frac{dx", "expected": "C"}
+{"qa_id": "validation_Math_24", "subject": "Math", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Math_23", "subject": "Math", "correct": 0.0, "candidate": "この問題は、放物運動の公式を用いて解くことができます。\n\n**1. 与えられた条件の整理:**\n*   発射角 $\\theta = 45^\\circ$\n*   発射位置の高さ $y_0 = h$\n*   着地地点の水平距離", "expected": "A"}
+{"qa_id": "validation_Math_22", "subject": "Math", "correct": 0.0, "candidate": "To solve this problem, let's follow these steps:\n\n1.  **Identify the given information:**\n    *   Trapezoid $ABCD$ with $AB \\parallel CD$.\n    *   $BC = CD = 43$.\n    *   $CD = 43$.\n", "expected": "D"}
+{"qa_id": "validation_Math_21", "subject": "Math", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Math_20", "subject": "Math", "correct": 0.0, "candidate": "画像に示されたグラフの最小全域木（MST）を、クラスカル法（Kruskal's algorithm）を用いて求めます。\n\n1.  **辺を重みの昇順に並べます：**\n    *   (2, 3): 2\n    *   (", "expected": "B"}
+{"qa_id": "validation_Math_19", "subject": "Math", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像の中に「全域木（Spanning Tree）」が示されていません。\n\n基本カットセット（Fundamental Cutsets）を求めるには、元のグラフに加えて、**どの枝（エッジ）が全域木に含まれているか**という情報が不可欠です。", "expected": "A"}
+{"qa_id": "validation_Math_18", "subject": "Math", "correct": 0.0, "candidate": "b", "expected": "A"}
+{"qa_id": "validation_Math_17", "subject": "Math", "correct": 0.0, "candidate": "この問題は、ボートで漕ぐ時間と歩く時間の合計を最小化する最適化問題です。\n\n1.  **設定の整理:**\n    *   湖の半径を $r = 1$ とします（直径 $PQ = 2$）。\n    *   ボート", "expected": "A"}
+{"qa_id": "validation_Math_16", "subject": "Math", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Math_15", "subject": "Math", "correct": 0.0, "candidate": "この問題は、微分を用いた「関連変化率」の問題です。\n\n1.  **変数の設定:**\n    *   はしごの長さ $L = 25$ フィート（一定）\n    *   壁の高さ（はしごの上端の高さ）を $y$", "expected": "['24/7', '3.429']"}
+{"qa_id": "validation_Math_14", "subject": "Math", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Math_13", "subject": "Math", "correct": 0.0, "candidate": "この問題を解くために、図形の幾何学的な性質を利用します。\n\n1.  **正八角形の性質**:\n    一辺の長さが $s=4$ の正八角形において、中心から各頂点までの距離や、各辺の角度を考えます。正", "expected": "C"}
+{"qa_id": "validation_Math_12", "subject": "Math", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Math_11", "subject": "Math", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Math_10", "subject": "Math", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Math_9", "subject": "Math", "correct": 0.0, "candidate": "はい", "expected": "B"}
+{"qa_id": "validation_Math_8", "subject": "Math", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Math_7", "subject": "Math", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Math_6", "subject": "Math", "correct": 0.0, "candidate": "この問題は、円の接線と割線の性質（方べきの定理）を用いて解くことができます。\n\n**定理:**\n点 $P$ から円に接線 $\\overline{PS}$ と割線 $\\overline{PQR}$ が引かれているとき、以下の関係が成り立ちます。\n", "expected": "B"}
+{"qa_id": "validation_Math_5", "subject": "Math", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Math_4", "subject": "Math", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Math_3", "subject": "Math", "correct": 0.0, "candidate": "この問題に答えるには、選択肢として提示されている画像（`<image 1>`, `<image 2>`, `<image 3>`）の内容を確認する必要があります。\n\n提示された「グラフ 1」は、8つの頂点（a, b, c, d, e, f, g, h", "expected": "B"}
+{"qa_id": "validation_Math_2", "subject": "Math", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Math_1", "subject": "Math", "correct": 0.0, "candidate": "存在しない", "expected": "C"}
+{"qa_id": "validation_Materials_30", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、三角形の板の変形における平均垂直ひずみを求めるものです。\n\n1.  **幾何学的形状の把握**:\n    *   三角形の底辺（$x$軸から$y$軸方向の線）は固定されています。\n    *   頂点 $", "expected": "A"}
+{"qa_id": "validation_Materials_29", "subject": "Materials", "correct": 0.0, "candidate": "BCC", "expected": "C"}
+{"qa_id": "validation_Materials_28", "subject": "Materials", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には「選択肢（image 1, image 2...）」が含まれておらず、問題文の図（a）のみが表示されています。\n\n正しい回答を導き出すためには、比較対象となる選択肢の画像が必要です。\n\nただし、物理学的な原理", "expected": "D"}
+{"qa_id": "validation_Materials_27", "subject": "Materials", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Materials_26", "subject": "Materials", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Materials_25", "subject": "Materials", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Materials_24", "subject": "Materials", "correct": 0.0, "candidate": "BCC {110}", "expected": "F"}
+{"qa_id": "validation_Materials_23", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、静力学の平衡条件を用いて解くことができます。\n\n**1. 荷重の分解と平衡条件**\nパイプの質量を $m$ とすると、重力は $W = mg$ です。\n点 $A$ における力の平衡を考えます。\nケーブル", "expected": "D"}
+{"qa_id": "validation_Materials_22", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、トラスの各部材にかかる力を求め、部材BCの応力に基づいて必要な断面積を計算する手順で解きます。\n\n### 1. 全体の力のつり合い（反力 $A_y, A_x, D_y$ の算出）\n", "expected": "C"}
+{"qa_id": "validation_Materials_21", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、梁の内部荷重（軸力 $N$、せん断力 $V$、曲げモーメント $M$）を求めるものです。\n\n### 1. 反力の計算\nまず、支点 $A$ と $B$ の反力を求めます。\n梁の全長", "expected": "A"}
+{"qa_id": "validation_Materials_20", "subject": "Materials", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Materials_19", "subject": "Materials", "correct": 0.0, "candidate": "この問題を解くために、まず元の対角線ACの長さと、変形後の対角線A'C'の長さを求めます。\n\n1.  **元の対角線ACの長さ ($L$):**\n    長方形の寸法は、幅 $w = 40", "expected": "A"}
+{"qa_id": "validation_Materials_18", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、与えられたせん断ひずみ成分 $\\gamma_{xy}$ から、エッジBCにおける垂直ひずみ（法線ひずみ） $\\epsilon_x$ を求めるものです。\n\n1.  **与えられた条件の整理:**\n    *   せん断ひず", "expected": "B"}
+{"qa_id": "validation_Materials_17", "subject": "Materials", "correct": 0.0, "candidate": "この問題を解くために、まず上腕骨 $H$ に働く力のモーメントのつり合いを考えます。\n\n1.  **力のモーメントのつり合い（肘関節の回転中心を基準とする）**:\n    肘の回転中心（$F_A$ と $F", "expected": "C"}
+{"qa_id": "validation_Materials_16", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、柱の各セクションにおける変形（短縮量）から荷重を求める問題です。\n\n**1. 与えられた条件の整理**\n*   **セクション $a-a$ (上部):**\n    *   長さ $L_1 = 10", "expected": "C"}
+{"qa_id": "validation_Materials_15", "subject": "Materials", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Materials_14", "subject": "Materials", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Materials_13", "subject": "Materials", "correct": 0.0, "candidate": "この問題では、頂点Bにおけるせん断ひずみ $\\gamma_{xy}$ を求めます。\n\n1.  **せん断ひずみの定義**:\n    せん断ひずみ $\\gamma_{xy}$ は、変形前の直角（90度）が、変形後にどれ", "expected": "A"}
+{"qa_id": "validation_Materials_12", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、ポリマーブロックのせん断変形に関するものです。\n\n**1. 与えられた値の整理:**\n*   水平荷重 $P = 2\\text{ kN} = 2000\\text{ N}$\n*   水平変位 $\\Delta x = 2", "expected": "B"}
+{"qa_id": "validation_Materials_11", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、静力学のモーメントのつり合いを用いて解くことができます。\n\n1.  **ピンAまわりのモーメントのつり合い ($\\sum M_A = 0$) を考えます。**\n    ハンドルに加わる力 $F = 120\\", "expected": "D"}
+{"qa_id": "validation_Materials_10", "subject": "Materials", "correct": 0.0, "candidate": "提供された画像には、選択肢となる複数の図（image 1, 2, 3, 4）が含まれていません。\n\nしかし、この種の問題（ホール・ペッチの法則に関する問題）の一般的な解法に基づくと、答えを導き出すことができます。\n\n**解説:**\n1", "expected": "A"}
+{"qa_id": "validation_Materials_9", "subject": "Materials", "correct": 0.0, "candidate": "この問題を解く手順は以下の通りです。\n\n1.  **モーメントのつり合いによるピンBにかかる力の算出**\n    ピンBを回転中心として、力のモーメントのつり合いを考えます。\n    *   荷重 $P$ によるモーメント：$M_", "expected": "B"}
+{"qa_id": "validation_Materials_8", "subject": "Materials", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Materials_7", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、ゴムブロックのせん断変形を考えるものです。\n\n1.  **荷重とせん断力の関係**:\n    荷重 $P$ が板 A に加えられると、中央のゴムブロックは左右のブロックに対してせん断力を受けます。中央のブロックの断面積は $", "expected": "A"}
+{"qa_id": "validation_Materials_6", "subject": "Materials", "correct": 0.0, "candidate": "この問題は、結晶学におけるミラー指数（方向指数）を求めるものです。\n\n1.  **ベクトルの端点を座標で表す**:\n    図を見ると、ベクトルは単位セルの中心付近から始まっています。\n    *   始点: $x = \\frac{1}{", "expected": "D"}
+{"qa_id": "validation_Materials_5", "subject": "Materials", "correct": 0.0, "candidate": "この問題を解くために、まず各ロッドにかかる力と応力の関係を整理します。\n\n**1. 与えられた条件の整理:**\n*   ロッドABの直径 $d_{AB} = 3\\text{ mm} = 0.003\\text{ m", "expected": "B"}
+{"qa_id": "validation_Materials_4", "subject": "Materials", "correct": 1.0, "candidate": "To find the bending stress at point B in section $a-a$, we follow these steps:\n\n### 1. Calculate the Bending Moment ($M$) at point B\nThe load $P = 3\\text{ kN} = 3000\\text{ N}$ is applied vertically at", "expected": "B"}
+{"qa_id": "validation_Materials_3", "subject": "Materials", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Materials_2", "subject": "Materials", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Materials_1", "subject": "Materials", "correct": 0.0, "candidate": "この問題では、H型鋼の断面の形状係数 $Z$ を求めます。\n\n### 1. 断面の寸法と慣性モーメント $I$ の計算\n断面の形状は、以下の通りです。\n*   フランジ（上下の板）：幅 $b = ", "expected": "B"}
+{"qa_id": "validation_Marketing_30", "subject": "Marketing", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Marketing_29", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_28", "subject": "Marketing", "correct": 0.0, "candidate": "偽。", "expected": "B"}
+{"qa_id": "validation_Marketing_27", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_26", "subject": "Marketing", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Marketing_25", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_24", "subject": "Marketing", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Marketing_23", "subject": "Marketing", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Marketing_22", "subject": "Marketing", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Marketing_21", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_20", "subject": "Marketing", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Marketing_19", "subject": "Marketing", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Marketing_18", "subject": "Marketing", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Marketing_17", "subject": "Marketing", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Marketing_16", "subject": "Marketing", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Marketing_15", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_14", "subject": "Marketing", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Marketing_13", "subject": "Marketing", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Marketing_12", "subject": "Marketing", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Marketing_11", "subject": "Marketing", "correct": 0.0, "candidate": "A", "expected": "0.10"}
+{"qa_id": "validation_Marketing_10", "subject": "Marketing", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Marketing_9", "subject": "Marketing", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Marketing_8", "subject": "Marketing", "correct": 0.0, "candidate": "偽。", "expected": "A"}
+{"qa_id": "validation_Marketing_7", "subject": "Marketing", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Marketing_6", "subject": "Marketing", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Marketing_5", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_4", "subject": "Marketing", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Marketing_3", "subject": "Marketing", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Marketing_2", "subject": "Marketing", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Marketing_1", "subject": "Marketing", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Manage_30", "subject": "Manage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Manage_29", "subject": "Manage", "correct": 0.0, "candidate": "いいえ", "expected": "B"}
+{"qa_id": "validation_Manage_28", "subject": "Manage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Manage_27", "subject": "Manage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Manage_26", "subject": "Manage", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Manage_25", "subject": "Manage", "correct": 0.0, "candidate": "この問題を解くために、パスB-Dの合計時間を求め、その分布を計算します。\n\n**1. パスB-Dの各活動の統計量を特定する**\n表から、活動Bと活動Dのデータを取り出します。\n*   **活動B:** $a=", "expected": "0.963"}
+{"qa_id": "validation_Manage_24", "subject": "Manage", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Manage_23", "subject": "Manage", "correct": 0.0, "candidate": "Based on the data provided in the table:\n\n1.  **Analyze the growth pattern:**\n    *   From 1950 to 1955: $1100 / 1000 = 1.1$ (10% increase)\n    *   From", "expected": "1464"}
+{"qa_id": "validation_Manage_22", "subject": "Manage", "correct": 0.0, "candidate": "正解は選択肢が提示されていませんが、ウルリッヒのモデルに基づくと、HRが「学ぶべきでないこと（避けるべきこと）」は、**「単なる事務的な処理（Administrative Expert）に留まること」**です。\n\n提示された選択肢の中で、ウルリッ", "expected": "C"}
+{"qa_id": "validation_Manage_21", "subject": "Manage", "correct": 0.0, "candidate": "1,150\n\n(解説: 荷物の重さが34ポンドなので「26から50ポンド」の行を見ます。輸送距離が295マイルなので「201から300」の列を見ます。その交差する値は1,", "expected": "920"}
+{"qa_id": "validation_Manage_20", "subject": "Manage", "correct": 0.0, "candidate": "この問題は、標準原価計算における「価格差異（Price Variance）」を求めるものです。\n\nまず、与えられたデータから「材料（Direct Materials）」の価格差異を計算します。\n\n**1. 標準データの整理（1個あたり）:**\n*   標準使用量 (SQ): ", "expected": "296000"}
+{"qa_id": "validation_Manage_19", "subject": "Manage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Manage_18", "subject": "Manage", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Manage_17", "subject": "Manage", "correct": 0.0, "candidate": "To find the correct answer, we need to calculate the selling amount and then apply the brokerage fee table provided in the image.\n\n**1. Calculate the Selling Amount:**\n*   **Purchase Price:** 14,600 (1/8)\n*   **Number of Shares:** 50", "expected": "6500"}
+{"qa_id": "validation_Manage_16", "subject": "Manage", "correct": 0.0, "candidate": "はい", "expected": "A"}
+{"qa_id": "validation_Manage_15", "subject": "Manage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Manage_14", "subject": "Manage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Manage_13", "subject": "Manage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Manage_12", "subject": "Manage", "correct": 0.0, "candidate": "いいえ", "expected": "A"}
+{"qa_id": "validation_Manage_11", "subject": "Manage", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Manage_10", "subject": "Manage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Manage_9", "subject": "Manage", "correct": 0.0, "candidate": "偽", "expected": "B"}
+{"qa_id": "validation_Manage_8", "subject": "Manage", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Manage_7", "subject": "Manage", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Manage_6", "subject": "Manage", "correct": 0.0, "candidate": "この画像は、ウサギ（直感的な、あるいは衝動的な反応）とカメ（論理的、あるいは着実なプロセス）の対比を、認知心理学や脳科学の文脈で示唆しているものと考えられます。\n\n一般的に、このような比喩において、ウ", "expected": "D"}
+{"qa_id": "validation_Manage_5", "subject": "Manage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Manage_4", "subject": "Manage", "correct": 0.0, "candidate": "この問題は、与えられた時系列データに対して線形回帰分析を行い、トレンド方程式（$y = ax + b$）を導き出すことで解決できます。\n\n**1. データの整理**\n$x$（年目）と $y$（登録数：千単位）", "expected": "C"}
+{"qa_id": "validation_Manage_3", "subject": "Manage", "correct": 0.0, "candidate": "この問題は、11月の「総現金収入」を求めるものです。現金収入は、「現金売上」と「信用販売の回収分」の合計となります。\n\n**1. 11月の現金売上**\n表より、11月の現金売上は **¥12,", "expected": "24211062"}
+{"qa_id": "validation_Manage_2", "subject": "Manage", "correct": 0.0, "candidate": "マーケティング", "expected": "B"}
+{"qa_id": "validation_Manage_1", "subject": "Manage", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_150", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_149", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_148", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_147", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_History_146", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_145", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_144", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_History_143", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_142", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_141", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_140", "subject": "Japanese_History", "correct": 0.0, "candidate": "この写真は、1949年に発生した**松川事件**に関連する、列車事故（またはその混乱）の様子を捉えたものとして知られていますが、提示された選択肢の中でこの写真が直接的に指し示す歴史的事件は、文脈から判断すると**松川事件**", "expected": "C"}
+{"qa_id": "test_Japanese_History_139", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_History_138", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_137", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_136", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_135", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_134", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_133", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_132", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_131", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_History_130", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_129", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_128", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_History_127", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_126", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_History_125", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_124", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_History_123", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_122", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_121", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_120", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_119", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_118", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_117", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_116", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_115", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_114", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_113", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_112", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_111", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_110", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_109", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_108", "subject": "Japanese_History", "correct": 0.0, "candidate": "画像には税率に関する直接的な数値の記載は見当たりませんが、この文書は明治時代の「地券（ちけん）」です。\n\n地券の記載内容から、地価（地価金）に対する特定の割合を計算する文脈において、選択肢の中で歴史的な地租や計算に関連する", "expected": "D"}
+{"qa_id": "test_Japanese_History_107", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_106", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_History_105", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_104", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_103", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_102", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_101", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_100", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_99", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_98", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_97", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_96", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_95", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_History_94", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_History_93", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_92", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_History_91", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_90", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_89", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_88", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_87", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_86", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_85", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_84", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_Japanese_History_83", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_82", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_81", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_80", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_79", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_78", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_77", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_76", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_75", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_74", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_History_73", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_72", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_History_71", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_70", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_69", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_68", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_67", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_66", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_65", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_64", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_History_63", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_62", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_History_61", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_60", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_59", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_58", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_57", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_56", "subject": "Japanese_History", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_History_55", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_History_54", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_53", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_52", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_History_51", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_50", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_49", "subject": "Japanese_History", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_History_48", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_47", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_46", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_History_45", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_44", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_43", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_42", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_History_41", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_40", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_39", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_History_38", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_History_37", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_36", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_History_35", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_34", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_33", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_32", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_31", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_30", "subject": "Japanese_History", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_History_29", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_28", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_27", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_History_26", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_25", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_24", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_History_23", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_22", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_21", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_20", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_19", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_History_18", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_17", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_16", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_15", "subject": "Japanese_History", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_History_14", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_13", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_12", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_11", "subject": "Japanese_History", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_History_10", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_9", "subject": "Japanese_History", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_History_8", "subject": "Japanese_History", "correct": 0.0, "candidate": "この画像は、大阪府にある**大阪城**の跡地（またはその周辺の城郭遺構）を示しています。\n\n大阪城の歴史的背景（古墳時代から中世・近世にかけての遺跡）を考慮すると、この場所から発掘されるものとして最もふさわしい", "expected": "C"}
+{"qa_id": "test_Japanese_History_7", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_6", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_5", "subject": "Japanese_History", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_History_4", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_History_3", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_History_2", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_History_1", "subject": "Japanese_History", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_150", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_149", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_148", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_147", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_146", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_145", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_144", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_143", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_142", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_141", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_140", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_139", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_138", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_137", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_136", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_135", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_134", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_133", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_132", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_131", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_130", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_129", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_128", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_127", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_126", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_125", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_124", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_123", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_122", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_121", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_120", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "画像に写っている鳥は、選択肢の中には含まれていません（この鳥は「ステラーズ・ジェイ」という北米に生息する鳥です）。\n\nしかし、問題の文脈（白神山地の生物）と選択肢から判断すると、この問題は画像と選択肢", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_119", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_118", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_117", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_116", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_115", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_114", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_113", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_112", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_111", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_110", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_109", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_108", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_107", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_106", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_105", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_104", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_103", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_102", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_101", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_100", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_99", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_98", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_97", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_96", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_95", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_94", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_93", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_92", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_91", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_90", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_89", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_88", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_87", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_86", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_85", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_84", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_83", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_82", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_81", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_80", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_79", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_78", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_77", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_76", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_75", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_74", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_73", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_72", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_71", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_70", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_69", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_68", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_67", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_66", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_65", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_64", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_63", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_62", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_61", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_60", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_59", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_58", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_57", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_56", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_55", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_54", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_53", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_52", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_51", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_50", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_49", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "この画像には、特定の思想（殖産興業、神仏習合、廃仏毀釈、神仏分離）が直接的に表れているわけではありません。\n\nしかし、もしこの画像が特定の歴史的文脈（例えば、特定の神社や寺院の周辺、あるいは特定の歴史的背景を持つ場所", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_48", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "この画像に示されている建築物は、日本の伝統的な寺院建築（木造建築）であり、選択肢にある「エンタシス」「ドーリア」「コリント」はすべて古代ギリシャの建築様式（オーダー）に関する用語です。\n\nしたがって、提示された選択肢の中にこの建築技法を", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_47", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_46", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_45", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_44", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_43", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_42", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_41", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_40", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_39", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_38", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_37", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_36", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_35", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_34", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_33", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_32", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_31", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "枯山水", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_30", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_29", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_28", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_27", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_26", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_25", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_24", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_23", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_22", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_21", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_20", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_19", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_18", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_17", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_16", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_15", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_14", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_13", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_12", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_11", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_10", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_9", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Heritage_8", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_7", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_6", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_5", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Heritage_4", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Heritage_3", "subject": "Japanese_Heritage", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_2", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_Heritage_1", "subject": "Japanese_Heritage", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_150", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_149", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_148", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_147", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_146", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_Art_145", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_Art_144", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_143", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_142", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_Art_141", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_Art_140", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_139", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_138", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_137", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_Art_136", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_135", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_134", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_133", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_132", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_131", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Art_130", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_129", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Art_128", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_127", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_126", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_125", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_124", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_123", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_122", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_121", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_120", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_Art_119", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_118", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_117", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_116", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_Japanese_Art_115", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_Art_114", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_113", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_Art_112", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_111", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_110", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_109", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_108", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "test_Japanese_Art_107", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_106", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_105", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_104", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_103", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_102", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_101", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_100", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_99", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_98", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_97", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_96", "subject": "Japanese_Art", "correct": 0.0, "candidate": "江戸時代", "expected": "B"}
+{"qa_id": "test_Japanese_Art_95", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_94", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_93", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_92", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_91", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_90", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_89", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_88", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_87", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_86", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_85", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_84", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_83", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_82", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_81", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_80", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_79", "subject": "Japanese_Art", "correct": 0.0, "candidate": "この絵画は、近代日本画家の**岸田劉生**による作品（「肉」など）のスタイルに近いものですが、提示された選択肢（江戸時代の浮世絵師や琳派の絵師）の中に作者は含まれていません。\n\nしかし、もしこの問題が特定の文脈", "expected": "D"}
+{"qa_id": "test_Japanese_Art_78", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_77", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_76", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_75", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_74", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_73", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_72", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_Art_71", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_70", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_69", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_Art_68", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_67", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_66", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_65", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_64", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_63", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_62", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_Art_61", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_60", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_59", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_58", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_57", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_56", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "test_Japanese_Art_55", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_54", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "test_Japanese_Art_53", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_Art_52", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_51", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_Art_50", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_49", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "test_Japanese_Art_48", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_47", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_46", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_Art_45", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_44", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_Art_43", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_42", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_41", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_40", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_39", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_38", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "test_Japanese_Art_37", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_36", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_35", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_Art_34", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_33", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_32", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_31", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_Art_30", "subject": "Japanese_Art", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "test_Japanese_Art_29", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_28", "subject": "Japanese_Art", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "test_Japanese_Art_27", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_26", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_25", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "test_Japanese_Art_24", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "test_Japanese_Art_23", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_22", "subject": "Japanese_Art", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "test_Japanese_Art_21", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_20", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_19", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_18", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_17", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_16", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "test_Japanese_Art_15", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_14", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_13", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_12", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_11", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_10", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_9", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_8", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_7", "subject": "Japanese_Art", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "test_Japanese_Art_6", "subject": "Japanese_Art", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "test_Japanese_Art_5", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_4", "subject": "Japanese_Art", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "test_Japanese_Art_3", "subject": "Japanese_Art", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "test_Japanese_Art_2", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "test_Japanese_Art_1", "subject": "Japanese_Art", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Finance_30", "subject": "Finance", "correct": 0.0, "candidate": "To calculate the value of Bond D, we need to find the present value of its future cash flows (coupon payments and the face value at maturity).\n\n**1. Identify the parameters for Bond D:**\n*   **Face Value ($F$):** $1,000\n*   **Annual Coupon", "expected": "124900"}
+{"qa_id": "validation_Finance_29", "subject": "Finance", "correct": 0.0, "candidate": "この問題は「割引回収期間（Discounted Payback Period）」を求めるものですが、提示された選択肢と問題文の文脈から判断すると、割引率が明示されていないため、通常の「回収期間（Payback Period）」の計算に基づいた選択肢を探すことになります。\n\n各プロジェクト", "expected": "C"}
+{"qa_id": "validation_Finance_28", "subject": "Finance", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Finance_27", "subject": "Finance", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Finance_26", "subject": "Finance", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Finance_25", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "28.6"}
+{"qa_id": "validation_Finance_24", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "30.0"}
+{"qa_id": "validation_Finance_23", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "52789"}
+{"qa_id": "validation_Finance_22", "subject": "Finance", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Finance_21", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Finance_20", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "724300000"}
+{"qa_id": "validation_Finance_19", "subject": "Finance", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Finance_18", "subject": "Finance", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Finance_17", "subject": "Finance", "correct": 0.0, "candidate": "To calculate the value of Bond B, we use the present value formula for a bond that pays interest semi-annually.\n\n**1. Identify the variables for Bond B:**\n*   **Face Value (F):** $1,000\n*   **Annual Coupon Rate:** 12%", "expected": "100000"}
+{"qa_id": "validation_Finance_16", "subject": "Finance", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Finance_15", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Finance_14", "subject": "Finance", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Finance_13", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Finance_12", "subject": "Finance", "correct": 0.0, "candidate": "この問題では、第2期間（$t=1$から$t=2$）の収益率を計算する必要があります。\n\nまず、株式Cは第2期間の開始時に「1対2の株式分割」を行っています。株式分割が行われると、1株あたりの価格は理論", "expected": "A"}
+{"qa_id": "validation_Finance_11", "subject": "Finance", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Finance_10", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "200000000"}
+{"qa_id": "validation_Finance_9", "subject": "Finance", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Finance_8", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "36000"}
+{"qa_id": "validation_Finance_7", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Finance_6", "subject": "Finance", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Finance_5", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Finance_4", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Finance_3", "subject": "Finance", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Finance_2", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Finance_1", "subject": "Finance", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_30", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "To solve this problem using control volume analysis, we apply the principles of conservation of mass and conservation of energy for a steady-flow process.\n\n**1. Given Data:**\n*   Chamber pressure ($P_c$): $950\\text{ kPa} = 950,00", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_29", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、水力発電（タービン運転時）における抽出電力を求めるものです。\n\n**1. 与えられた条件の整理:**\n*   上部貯水池の高さ ($Z_1$): $150\\text{ ft}$\n*   下部貯水池", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_28", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、円管内の層流（ポアズイユ流れ）における質量流量と平均速度を求めるものです。\n\n**1. 平均速度 $V$ の計算**\n平均速度 $V$ は、速度分布の積分を断面積で割ることで求められます。\n$$V", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_27", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "まず、与えられた値を整理します。\n\n*   バルブの断面積 ($A$): $11\\text{ cm}^2 = 11 \\times 10^{-4}\\text{ m}^2$\n*   シリンダー内の圧力 ($P_{\\text{cylinder}}$):", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_26", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_25", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、ブレイトンサイクル（ガスタービンサイクル）の熱力学計算です。\n\n**1. 与えられた条件の整理:**\n*   状態1（圧縮機入口）: $P_1 = 100\\text{ kPa}$, $T_1 = 4", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_24", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この図に示されているのは、**順流式多重効用蒸発缶（Forward Feed Multiple-Effect Evaporator）**です。\n\nこのシステムにおいて、各効用（Effect）の容量（または処理量）に関する一般的な定義に基づくと、質問の意図は「システム全体の容量", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_23", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題を解くために、まずプラグにかかる静水力（力）の式を用います。\n\n1.  **プラグにかかる力の式:**\n    プラグにかかる力 $F$ は、プラグの投影面積 $A$ と、プラグの位置での圧力 $P$ の積で表されます", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_22", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、ベルヌーイの式と管路抵抗（ダルシー・ヴァイスバッハの式）を用いて解くことができます。\n\n**1. 与えられたデータの整理:**\n*   流量 $Q = 60 \\text{ m}^3/\\text{h} = \\", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_21", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、流体力学における「ピトー管（Pitot tube）」の原理を用いて解くことができます。\n\n1.  **与えられた値の整理:**\n    *   飛行速度 ($v$): $75\\text{ mi/h}$\n    *   差圧 ($\\Delta", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_20", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_19", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "To find the required test stand reaction force $R_x$, we use the principle of conservation of momentum for a control volume. The net force in the x-direction is equal to the rate of change of momentum.\n\n**1. Identify given values:**\n*   **Inlet (1):** $T", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_18", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、凝縮器におけるエクセルギー破壊（Exergy Destruction）を求めるものです。\n\n### 1. 凝縮器における熱交換量の計算\nまず、冷却水が吸収した熱量 $\\dot{Q}_{water}$ を求めます。\n$$\\dot{Q}_{water}", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_17", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_16", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "To find the Coefficient of Performance (COP) of the heat pump, we follow these steps:\n\n**1. Identify the given data:**\n*   Refrigerant: R-134a\n*   State at condenser outlet (saturated liquid): $P = 800\\text{ kPa}$,", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_15", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、ベルヌーイの定理とエネルギー損失（摩擦損失および局部損失）を用いて解くことができます。\n\n### 1. 与えられた条件の整理\n*   **水位差 ($\\Delta Z$):** $25\\,\\text{m} - 0\\,\\text{m}", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_14", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、静止した流体中の圧力の平衡条件（パスカルの原理の応用）を用いて解きます。\n\n1.  **各液体の密度を定義します：**\n    *   水の密度 $\\rho_{\\text{water}} = 1000 \\text{ kg/", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_13", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、熱力学の第一法則（エネルギー保存則）を用いて、冷凍サイクルの各構成要素におけるエネルギーバランスを計算することで解くことができます。\n\n**1. 凝縮器（Condenser）におけるエネルギーバランス**\n凝縮器では、冷媒が放出する熱量 $\\", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_12", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、断熱容器（真空状態から開始）に供給路から空気が流入する際の「仕事ポテンシャル（流動仕事）」を求めるものです。\n\n**1. 与えられた条件の整理:**\n*   容器の体積 ($V$): $40\\text{", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_11", "subject": "Energy_and_Power", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_10", "subject": "Energy_and_Power", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_9", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、水銀圧力計（マノメーター）の原理を用いて、傾斜したパイプ内の2点間の圧力差を求めるものです。\n\n1.  **マノメーターの原理**:\n    水銀圧力計の読み $h$ は、管内の流体（水）と", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_8", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "To find the height $H$, we use the principle of hydrostatic pressure. Let's define the pressures at different levels based on the diagram.\n\n**1. Identify the given values:**\n*   Specific Gravity of oil ($SG_{oil}$) = $0.827$\n*   Density of water", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_7", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、理想的な蒸気圧縮冷凍サイクルの計算です。\n\n**1. 与えられた条件の整理:**\n*   冷媒: R-134a\n*   凝縮器圧力 ($P_{high}$): $800\\text{ kPa}$\n*   ", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_6", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_5", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題を解くために、まず球体の体積、鋼鉄の質量、および浮力の計算を行います。\n\n**1. 与えられた数値の整理:**\n*   球体の外径 $D = 14$ インチ $\\rightarrow$ 外半径 $R_{out} = 7$", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_4", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、断熱膨張プロセス（絞り膨張）におけるエントロピー生成を求めるものです。\n\n**1. 状態1（入口）の特定:**\n*   冷媒: R-134a\n*   圧力 $P_1 = 100 \\", "expected": "B"}
+{"qa_id": "validation_Energy_and_Power_3", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、ベルヌーイの定理と連続の式を用いて解くことができます。\n\n**1. 与えられた条件の整理:**\n*   セクション(1)の直径 $D_1 = 12\\text{ cm} = 0.12\\text{ m}$", "expected": "C"}
+{"qa_id": "validation_Energy_and_Power_2", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、熱機関のエネルギーバランス（第一法則）と、カルノー効率（第二法則）に基づいて解くことができます。\n\n**1. 第一法則の効率（熱効率 $\\eta_{th}$）の計算**\n第一法則の効率は、「得られた仕事」を「供給された熱量", "expected": "A"}
+{"qa_id": "validation_Energy_and_Power_1", "subject": "Energy_and_Power", "correct": 0.0, "candidate": "この問題は、半球状の熱源から半無限体（シリコン基板）への熱伝導に関する問題です。\n\n**1. 与えられた条件の整理:**\n*   熱源の形状: 半球（半径 $r_0 = 0.1 \\text{ mm", "expected": "B"}
+{"qa_id": "validation_Electronics_30", "subject": "Electronics", "correct": 0.0, "candidate": "To find the phase of $V_{out}$ relative to $V_{in}$, we need to determine the transfer function of the ladder network.\n\n### 1. Identify the components\nThe circuit is a ladder network consisting of 4 identical stages. Each stage has:\n*   A series capacitor: $C", "expected": "-141"}
+{"qa_id": "validation_Electronics_29", "subject": "Electronics", "correct": 0.0, "candidate": "この回路の問題を解くために、まず回路の構成を整理し、6Vの電源から供給される電流を求めます。\n\n### 1. 回路の構成\n回路素子Xを $2\\Omega$ の抵抗とします。\n電源は $6\\text{V}$ と", "expected": "30"}
+{"qa_id": "validation_Electronics_28", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、直流成分（DC）と交流成分（AC）が混在した回路です。重ね合わせの理を用いて、それぞれの成分について $v_2$ を求めます。\n\n### 1. 直流成分 (DC) の解析\n直流成分では、コンデンサは開放（", "expected": "A"}
+{"qa_id": "validation_Electronics_27", "subject": "Electronics", "correct": 0.0, "candidate": "この問題は、三相交流回路における特定の電流の位相を求めるものです。\n\n### 1. 回路の解析\n与えられた回路は、三相平衡電圧源（$a, b, c$）に、スター（Y）結線の負荷が接続されています。\n負荷の各", "expected": "-120"}
+{"qa_id": "validation_Electronics_26", "subject": "Electronics", "correct": 0.0, "candidate": "To find the equivalent capacitance $C$, we need to analyze the capacitor part of the circuit shown in Figure 1.\n\n1.  **Identify the capacitor configuration:**\n    The circuit shows two capacitors connected in parallel: one with a capacitance of $5\\mu\\text{F}$ and another part consisting of", "expected": "6.333"}
+{"qa_id": "validation_Electronics_25", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、入力電圧 $E_{in}$ に対してダイオードが直列に接続された半波整流回路です。\n\n1.  **入力電圧の特性**: 下部のグラフより、入力電圧 $E_{in}$ は $+50\\text{V}$ から $-50\\", "expected": "50"}
+{"qa_id": "validation_Electronics_24", "subject": "Electronics", "correct": 0.0, "candidate": "この問題を解くために、回路の各部分の電圧と電流の関係を順を追って計算します。\n\n**1. 与えられた値の整理:**\n*   $V_{BB} = 15\\text{ V}$\n*   $V_{CC} = 15\\", "expected": "551"}
+{"qa_id": "validation_Electronics_23", "subject": "Electronics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Electronics_22", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、インダクタ $L = \\frac{1}{2}\\text{H}$ とキャパシタ $C = 0.005\\text{F}$ が並列に接続されたRLC回路です。\n\n### 1. 回路の特性方程式と固有振動", "expected": "C"}
+{"qa_id": "validation_Electronics_21", "subject": "Electronics", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には選択肢（A, B, C, Dなど）が含まれていないため、正解の記号を特定することができません。\n\nしかし、問題の解法手順は以下の通りです。\n\n### 1. 波形の解析\nグラフから、周期 $", "expected": "0.9965"}
+{"qa_id": "validation_Electronics_20", "subject": "Electronics", "correct": 1.0, "candidate": "与えられた回路において、コンデンサに流れる電流 $i$ は、コンデンサの基本式 $i = C \\frac{dv_c}{dt}$ によって求められます。\n\n1. **$i$ の式を求める**\n   電圧が $v_c = \\sin", "expected": "C"}
+{"qa_id": "validation_Electronics_19", "subject": "Electronics", "correct": 1.0, "candidate": "この問題は、相互インダクタンス（結合回路）における誘導起電力を求める問題です。\n\n1.  **与えられた値の整理:**\n    *   $i_1 = 10 \\sin(t)$ [A]\n    *   $i_2 = ", "expected": "A"}
+{"qa_id": "validation_Electronics_18", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、電圧源 $v_s(t)$、抵抗 $R = 2\\,\\Omega$、インダクタ $L = 1\\,\\text{H}$ が直列に接続されたRL回路です。\n\n回路の方程式（キルヒホッフの電圧則）は以下の通り", "expected": "B"}
+{"qa_id": "validation_Electronics_17", "subject": "Electronics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Electronics_16", "subject": "Electronics", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像と質問文の内容に不一致があります。\n\n質問文では**「図(c)のvを求めなさい」**とありますが、**図(c)には電圧 $v$ と記された要素が存在しません。** 電圧 $v$ が記", "expected": "20"}
+{"qa_id": "validation_Electronics_15", "subject": "Electronics", "correct": 0.0, "candidate": "この問題は、非線形インダクタの電圧 $v(t)$ を求めるものです。\n\nインダクタの定義より、電圧 $v(t)$ は磁束 $\\phi(t)$ の時間微分で表されます。\n$$v(t) = \\frac{d\\phi}{", "expected": "A"}
+{"qa_id": "validation_Electronics_14", "subject": "Electronics", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Electronics_13", "subject": "Electronics", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Electronics_12", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、バイポーラトランジスタを用いた「固定バイアス回路」です。与えられた値を用いて、以下の手順で $V_{CE}$ を求めます。\n\n1.  **ベース電流 $I_B$ を求める**\n    ベース回路のキルヒホッフの法則", "expected": "10"}
+{"qa_id": "validation_Electronics_11", "subject": "Electronics", "correct": 0.0, "candidate": "提示された回路図に基づき、節点方程式を用いて $v_x$ を求めます。\n\n### 1. 基準の設定と節点の定義\n問題の指示に従い、最も電圧の低い点（回路の下側の共通線）を基準電位 $0\\text{V}$ とします", "expected": "0.3"}
+{"qa_id": "validation_Electronics_10", "subject": "Electronics", "correct": 0.0, "candidate": "この回路をフェーザ法を用いて解きます。\n\n**1. 与えられた値の整理**\n*   電圧源: $v(t) = 100 \\cos(377t) \\text{ V}$\n    *   角周波数 $\\omega = 37", "expected": "A"}
+{"qa_id": "validation_Electronics_9", "subject": "Electronics", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Electronics_8", "subject": "Electronics", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Electronics_7", "subject": "Electronics", "correct": 0.0, "candidate": "この回路の定常状態における電圧 $v_C(t)$ を求める手順は以下の通りです。\n\n### 1. 回路の解析\n回路は、電流源 $i(t)$、抵抗 $2\\Omega$、および抵抗 $1\\Omega$ とコンデンサ $1", "expected": "C"}
+{"qa_id": "validation_Electronics_6", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、2つの電圧源を持つ回路における節点電圧（ノード電圧）を求める問題です。節点 $n_1$ の電圧を $\\vec{V}_C$ とします。\n\n### 1. 与えられた値の整理\n*   電圧源1: $\\vec", "expected": "71.6"}
+{"qa_id": "validation_Electronics_5", "subject": "Electronics", "correct": 0.0, "candidate": "この回路はコレクタ接地回路（エミッタフォロア）です。\n\n出力インピーダンス $r_{out}$ を求める手順は以下の通りです。\n\n1.  **小信号モデルの適用**:\n    出力端子から見たインピーダンスを求めるため、信号源 $E", "expected": "62.6"}
+{"qa_id": "validation_Electronics_4", "subject": "Electronics", "correct": 0.0, "candidate": "この回路は、バイアス抵抗 $R_1$ と $R_2$ を用いた電圧帰還型（エミッタ抵抗あり）のバイアス回路です。動作点 $V_{CEQ}$ を求める手順は以下の通りです。\n\n**1. ベース電圧 $V_B", "expected": "8.4"}
+{"qa_id": "validation_Electronics_3", "subject": "Electronics", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Electronics_2", "subject": "Electronics", "correct": 0.0, "candidate": "この電流波形は、振幅 $I_m = 4\\text{ A}$、周期 $T = 4\\text{ ms}$ の正弦波（サイン波）です。\n\n正弦波の実効値 $I_{\\text{rms}}$ は、最大値 $I_m", "expected": "2.83"}
+{"qa_id": "validation_Electronics_1", "subject": "Electronics", "correct": 0.0, "candidate": "この回路が飽和状態であるかどうかを判断するために、ベース電流 $I_B$ とコレクタ電流 $I_C$ を計算します。\n\n1.  **ベース電流 $I_B$ の計算:**\n    入力電圧 $V_{in} = 4\\text{ V}$", "expected": "A"}
+{"qa_id": "validation_Economics_30", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Economics_29", "subject": "Economics", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Economics_28", "subject": "Economics", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Economics_27", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Economics_26", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Economics_25", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Economics_24", "subject": "Economics", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Economics_23", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Economics_22", "subject": "Economics", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Economics_21", "subject": "Economics", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Economics_20", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "800"}
+{"qa_id": "validation_Economics_19", "subject": "Economics", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Economics_18", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Economics_17", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Economics_16", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Economics_15", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Economics_14", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Economics_13", "subject": "Economics", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Economics_12", "subject": "Economics", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Economics_11", "subject": "Economics", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Economics_10", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Economics_9", "subject": "Economics", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Economics_8", "subject": "Economics", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Economics_7", "subject": "Economics", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Economics_6", "subject": "Economics", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Economics_5", "subject": "Economics", "correct": 0.0, "candidate": "賃金が下がる。", "expected": "B"}
+{"qa_id": "validation_Economics_4", "subject": "Economics", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Economics_3", "subject": "Economics", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Economics_2", "subject": "Economics", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Economics_1", "subject": "Economics", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_30", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_29", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_28", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_27", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "E", "expected": "E"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_26", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_25", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "False", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_24", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "この画像は、脳組織の低倍率のH&E染色像です。画像からは、広範な白質領域の脱落や、組織の構造的な変化（空胞化など）が示唆されます。\n\n提示された選択肢の中で、このような広範な白質病変を", "expected": "D"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_23", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_22", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_21", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_20", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "E"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_19", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_18", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_17", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_16", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "正解は **D** です。\n\n**解説:**\nこの症例の臨床像と画像所見から、以下の理由で**髄芽腫 (Medulloblastoma)** が最も強く疑われます。\n\n1.  **患者背景:** 2歳という年齢は、小児の脳腫瘍", "expected": "C"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_15", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_14", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_13", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_12", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_11", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_10", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_9", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_8", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_7", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_6", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_5", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_4", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_3", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_2", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Diagnostics_and_Laboratory_Medicine_1", "subject": "Diagnostics_and_Laboratory_Medicine", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Design_30", "subject": "Design", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Design_29", "subject": "Design", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Design_28", "subject": "Design", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Design_27", "subject": "Design", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Design_26", "subject": "Design", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Design_25", "subject": "Design", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Design_24", "subject": "Design", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Design_23", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_22", "subject": "Design", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Design_21", "subject": "Design", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Design_20", "subject": "Design", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Design_19", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_18", "subject": "Design", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Design_17", "subject": "Design", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Design_16", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_15", "subject": "Design", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Design_14", "subject": "Design", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Design_13", "subject": "Design", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Design_12", "subject": "Design", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Design_11", "subject": "Design", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Design_10", "subject": "Design", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Design_9", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_8", "subject": "Design", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Design_7", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_6", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_5", "subject": "Design", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Design_4", "subject": "Design", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Design_3", "subject": "Design", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Design_2", "subject": "Design", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Design_1", "subject": "Design", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Computer_Science_30", "subject": "Computer_Science", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Computer_Science_29", "subject": "Computer_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Computer_Science_28", "subject": "Computer_Science", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Computer_Science_27", "subject": "Computer_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Computer_Science_26", "subject": "Computer_Science", "correct": 0.0, "candidate": "156", "expected": "251"}
+{"qa_id": "validation_Computer_Science_25", "subject": "Computer_Science", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Computer_Science_24", "subject": "Computer_Science", "correct": 0.0, "candidate": "図の「OFFERS」というリレーションシップに注目します。\n\n1.  「DEPT」から「OFFERS」に向かう線の端には **(0,N)** と記載されています。これは、1つのDEPTが0個からN個のCOURSEを提供できることを示しています。\n2", "expected": "B"}
+{"qa_id": "validation_Computer_Science_23", "subject": "Computer_Science", "correct": 0.0, "candidate": "この問題は、TCPの再送タイムアウト（RTO）計算における、推定往復時間（EstimatedRTT）、往復時間偏差（DevRTT）、およびタイムアウト値（RTO）の更新プロセスに関するものです。\n\n与え गए値：\n*   現在の推定RTT ($EstimatedRTT_{old", "expected": "253.75"}
+{"qa_id": "validation_Computer_Science_22", "subject": "Computer_Science", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Computer_Science_21", "subject": "Computer_Science", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Computer_Science_20", "subject": "Computer_Science", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Computer_Science_19", "subject": "Computer_Science", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Computer_Science_18", "subject": "Computer_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Computer_Science_17", "subject": "Computer_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Computer_Science_16", "subject": "Computer_Science", "correct": 0.0, "candidate": "このグラフは、数式の構造を表す「式グラフ（Expression Graph）」です。グラフのノード（節点）を、葉（変数）から根（最終的な演算結果）に向かって辿ることで、数式を組み立てることができます。\n\nグラフの構造を解析します：\n1.  ", "expected": "D"}
+{"qa_id": "validation_Computer_Science_15", "subject": "Computer_Science", "correct": 0.0, "candidate": "画像内のリレーション名は「WORKS_FOR」ですが、質問文では「WORKS_ON」と記載されています。図に示されている「WORKS_FOR」のリレーションについて回答します。\n\n図を確認すると：\n- **EMPLOYEE**（従業員）から **WORKS_FOR**（所属）への", "expected": "D"}
+{"qa_id": "validation_Computer_Science_14", "subject": "Computer_Science", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Computer_Science_13", "subject": "Computer_Science", "correct": 0.0, "candidate": "図から、訓練セット $(x^i, y^i)$ は以下の3点です。\n$(1, 1), (2, 2), (3, 3)$\nしたがって、$m=3$ です。\n\n仮説関数は $h_{\\theta}(x) = \\theta_", "expected": "D"}
+{"qa_id": "validation_Computer_Science_12", "subject": "Computer_Science", "correct": 0.0, "candidate": "このグラフの深さ優先探索（DFS）のプロセスを、タイムスタンプに基づいて解析します。\n\n1.  **開始点 $a$ (13/14):** $a$ が発見されます。$a$ から行ける隣接ノードは $b$ と $e$", "expected": "D"}
+{"qa_id": "validation_Computer_Science_11", "subject": "Computer_Science", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には、比較対象となる4つの二分木の選択肢（`<image 1>`〜`<image 4>`）が含まれていないため、正解を特定することができません。\n\n問題文にある「二分探索決定木（Binary Search Decision Tree）」の定義", "expected": "A"}
+{"qa_id": "validation_Computer_Science_10", "subject": "Computer_Science", "correct": 0.0, "candidate": "この問題は、与えられた隣接行列から重み付き無向グラフを構成し、その最小全域木（MST）の重みの総和を求めるものです。\n\nまず、行列の各要素を辺の重みとして整理します（無向グラフなので、行列は対称です）。", "expected": "D"}
+{"qa_id": "validation_Computer_Science_9", "subject": "Computer_Science", "correct": 0.0, "candidate": "この問題を解くために、各通信ペアにおけるボトルネック（最も容量の小さい部分）を特定します。\n\n1.  **各リンクの容量を確認します：**\n    *   サーバーから中間リンクへの容量 ($R_S$): $80 \\text{ Mbps}$\n    *   ", "expected": "60"}
+{"qa_id": "validation_Computer_Science_8", "subject": "Computer_Science", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Computer_Science_7", "subject": "Computer_Science", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Computer_Science_6", "subject": "Computer_Science", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Computer_Science_5", "subject": "Computer_Science", "correct": 0.0, "candidate": "単方向リスト", "expected": "A"}
+{"qa_id": "validation_Computer_Science_4", "subject": "Computer_Science", "correct": 0.0, "candidate": "いいえ", "expected": "A"}
+{"qa_id": "validation_Computer_Science_3", "subject": "Computer_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Computer_Science_2", "subject": "Computer_Science", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Computer_Science_1", "subject": "Computer_Science", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Clinical_Medicine_30", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_29", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Clinical_Medicine_28", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Clinical_Medicine_27", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "正解は **癒着胎盤** です。\n\nこの画像は、胎盤が子宮壁に深く癒着しており、通常の剥離が困難な状態を示しています。臨床経過（胎盤娩出不能、大量出血、緊急子宮摘出術）も、癒着胎盤（", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_26", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Clinical_Medicine_25", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_24", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Clinical_Medicine_23", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Clinical_Medicine_22", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Clinical_Medicine_21", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_20", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_19", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "正解は **E** です。\n\n**解説:**\n提示された肉眼像は、胆嚢内に多数の胆石（gallstones）が存在する状態を示しています。患者の症状（右上腹部の鋭い痛み、圧痛）は胆石症（胆石性疼痛）に典型的です", "expected": "E"}
+{"qa_id": "validation_Clinical_Medicine_18", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Clinical_Medicine_17", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_16", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_15", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Clinical_Medicine_14", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_13", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_12", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "浸潤性乳管癌", "expected": "A"}
+{"qa_id": "validation_Clinical_Medicine_11", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_10", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "正解は **凝固壊死** です。\n\n**解説:**\nこの症例は、臨床症状（著しい胸痛）、EKG（ST上昇）、および心筋トロポニンの上昇から、**急性心筋梗塞**であることがわかります。画像は、心筋の広範", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_9", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_8", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_7", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "E", "expected": "E"}
+{"qa_id": "validation_Clinical_Medicine_6", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Clinical_Medicine_5", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Clinical_Medicine_4", "subject": "Clinical_Medicine", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_3", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Clinical_Medicine_2", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Clinical_Medicine_1", "subject": "Clinical_Medicine", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Chemistry_30", "subject": "Chemistry", "correct": 0.0, "candidate": "この問題は、与えられたルイス構造から化学式を導き出すものです。\n\n1.  **イオンの電荷を確認する**:\n    *   左側のイオンは $[M^{2+}]$ で、電荷は $+2$ です。\n    *   右側のイオンは $[X^{", "expected": "['$MGS$', 'MGS']"}
+{"qa_id": "validation_Chemistry_29", "subject": "Chemistry", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には「(a)」の構造式しか含まれておらず、比較対象となる選択肢（image 1〜4）の画像が表示されていません。\n\n一般的に、このタイプの問題（シクロヘキサン環の置換基を持つ異性体の安定", "expected": "D"}
+{"qa_id": "validation_Chemistry_28", "subject": "Chemistry", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Chemistry_27", "subject": "Chemistry", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Chemistry_26", "subject": "Chemistry", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には「選択肢（image 1, 2, 3, 4）」が含まれていないため、どの組み合わせが間違っているかを判断することができません。\n\n問題文の(a)の式自体は、化学的に正しい塩基性の強さの順", "expected": "C"}
+{"qa_id": "validation_Chemistry_25", "subject": "Chemistry", "correct": 0.0, "candidate": "この問題では、各同位体の質量とその存在比率（割合）を掛け合わせ、それらを合計することで平均原子質量を求めます。\n\n計算式は以下の通りです：\n平均原子質量 $= (24.0 \\times 0.790) + (25.0", "expected": "24.32"}
+{"qa_id": "validation_Chemistry_24", "subject": "Chemistry", "correct": 0.0, "candidate": "この問題は、クラウジウス・クラペイロンの式（Clausius-Clapeyron equation）を用いて解くことができます。\n\n### 1. データの整理\n式 $\\ln(P) = -\\frac{\\Delta H_{vap}}{R} \\cdot \\frac{1}{T", "expected": "D"}
+{"qa_id": "validation_Chemistry_23", "subject": "Chemistry", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には、計算に必要な**「検量線のデータ（各濃度における吸光度の値）」**または**「測定した鉱石溶液の吸光度」**が記載されていません。\n\n問題文の流れから、本来は以下のような手順で解くことになります", "expected": "6.5"}
+{"qa_id": "validation_Chemistry_22", "subject": "Chemistry", "correct": 1.0, "candidate": "(B)", "expected": "B"}
+{"qa_id": "validation_Chemistry_21", "subject": "Chemistry", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Chemistry_20", "subject": "Chemistry", "correct": 0.0, "candidate": "この分子（モルヒネ）の構造式において、キラル中心（不斉炭素原子）を数えると以下の**5箇所**になります。\n\n1.  窒素原子に結合している炭素（橋かけ部分の炭素）\n2.  橋かけ部分のもう一つの炭", "expected": "5"}
+{"qa_id": "validation_Chemistry_19", "subject": "Chemistry", "correct": 0.0, "candidate": "C", "expected": "4"}
+{"qa_id": "validation_Chemistry_18", "subject": "Chemistry", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Chemistry_17", "subject": "Chemistry", "correct": 0.0, "candidate": "正解は **P, Q** です。\n\n**解説:**\nメソ体（meso form）とは、分子内に不斉炭素原子を持ちながら、分子内に鏡面対称性（または反転中心）が存在するため、光学的に不活性な化合物のことです。\n\n2,3", "expected": "B"}
+{"qa_id": "validation_Chemistry_16", "subject": "Chemistry", "correct": 0.0, "candidate": "四面体形", "expected": "D"}
+{"qa_id": "validation_Chemistry_15", "subject": "Chemistry", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Chemistry_14", "subject": "Chemistry", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Chemistry_13", "subject": "Chemistry", "correct": 0.0, "candidate": "To find the mass of calcium hydroxide dissolved in solution A, follow these steps:\n\n1.  **Identify the given values for solution A:**\n    *   Molarity ($M$) = $0.350\\text{ mol/L}$\n    *   Volume ($V$) = $50", "expected": "12.97"}
+{"qa_id": "validation_Chemistry_12", "subject": "Chemistry", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像の中に「選択肢（image 2, 3, 4, 5）」が含まれていないため、正解を特定することができません。\n\n鏡像異性体（エナンチオマー）を求める手順は以下の通りです：\n\n1.  ", "expected": "A"}
+{"qa_id": "validation_Chemistry_11", "subject": "Chemistry", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Chemistry_10", "subject": "Chemistry", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Chemistry_9", "subject": "Chemistry", "correct": 0.0, "candidate": "逆マルコフニコフ則に従う。", "expected": "A"}
+{"qa_id": "validation_Chemistry_8", "subject": "Chemistry", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Chemistry_7", "subject": "Chemistry", "correct": 0.0, "candidate": "この化合物の構造を分析します。\n\n1.  **構造の特定**:\n    この化合物は、2,3,4,5-テトラブロモペンタン（2,3,4,5-tetrabromopentane）です。\n    炭素鎖の番号を左", "expected": "C"}
+{"qa_id": "validation_Chemistry_6", "subject": "Chemistry", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Chemistry_5", "subject": "Chemistry", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Chemistry_4", "subject": "Chemistry", "correct": 0.0, "candidate": "画像に示されている物質の構造を解析します。\n\n1.  **骨格の特定**: 6員環の飽和炭化水素（シクロヘキサン）に、塩素原子（$\\text{Cl}$）とメチル基（$\\text{CH}_3$）が結合", "expected": "トランス-1-クロロ-4-メチルシクロヘキサン"}
+{"qa_id": "validation_Chemistry_3", "subject": "Chemistry", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Chemistry_2", "subject": "Chemistry", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Chemistry_1", "subject": "Chemistry", "correct": 0.0, "candidate": "いいえ。", "expected": "B"}
+{"qa_id": "validation_Biology_30", "subject": "Biology", "correct": 0.0, "candidate": "正解は **H** です。\n\n**解説:**\n画像はショウジョウバエ（*Drosophila*）の胚の発生過程を示しており、縞模様（ストライプ）が現れていることから、**体節形成**（segmentation）が進んでいることがわかります。また、縞模様", "expected": "F"}
+{"qa_id": "validation_Biology_29", "subject": "Biology", "correct": 0.0, "candidate": "画像に示されている構造式は、**マルトース（麦芽糖）**です。\n\nデンプン（アミロースやアミロペクチン）は、グルコースが $\\alpha$-1,4-グリコシド結合でつながった多糖類であり、これを分解", "expected": "C"}
+{"qa_id": "validation_Biology_28", "subject": "Biology", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Biology_27", "subject": "Biology", "correct": 0.0, "candidate": "この系統図から遺伝様式を解析します。\n\n1.  **常染色体優性か劣性か**:\n    *   個体3（病気）と個体4（非病気）の間に、個体9（非病気）、10（非病気）、", "expected": "E"}
+{"qa_id": "validation_Biology_26", "subject": "Biology", "correct": 0.0, "candidate": "スーパーコイルから線状", "expected": "E"}
+{"qa_id": "validation_Biology_25", "subject": "Biology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Biology_24", "subject": "Biology", "correct": 0.0, "candidate": "提供された画像には、選択肢（`<image 1>`, `<image 2>`, `<image 3>`）が含まれていないため、画像に基づいた判断ができません。\n\nしかし、問題の文脈から判断すると、ヒト心筋細胞を蛍光顕微鏡で観察した場合、通常は以下の特徴", "expected": "C"}
+{"qa_id": "validation_Biology_23", "subject": "Biology", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Biology_22", "subject": "Biology", "correct": 0.0, "candidate": "3/8", "expected": "A"}
+{"qa_id": "validation_Biology_21", "subject": "Biology", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Biology_20", "subject": "Biology", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Biology_19", "subject": "Biology", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Biology_18", "subject": "Biology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Biology_17", "subject": "Biology", "correct": 0.0, "candidate": "破裂孔", "expected": "A"}
+{"qa_id": "validation_Biology_16", "subject": "Biology", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Biology_15", "subject": "Biology", "correct": 0.0, "candidate": "ツンドラ", "expected": "B"}
+{"qa_id": "validation_Biology_14", "subject": "Biology", "correct": 0.0, "candidate": "この問題は、性染色体（あるいは性による表現型の違い）が関わる遺伝形式を解くものです。\n\nまず、遺伝子座の情報を整理します。\n- マホガニー（M）と赤（R）の常染色体遺伝子です。\n- ホモ接合", "expected": "E"}
+{"qa_id": "validation_Biology_13", "subject": "Biology", "correct": 0.0, "candidate": "Iのみ", "expected": "C"}
+{"qa_id": "validation_Biology_12", "subject": "Biology", "correct": 0.0, "candidate": "D", "expected": "A"}
+{"qa_id": "validation_Biology_11", "subject": "Biology", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Biology_10", "subject": "Biology", "correct": 0.0, "candidate": "この問題は、常染色体劣性（AR）遺伝の確率計算です。\n\n1.  **遺伝子の定義**:\n    *   疾患アレルを $a$、正常アレルを $A$ とします。\n    *   個体#1はヘテロ接合体", "expected": "1/64"}
+{"qa_id": "validation_Biology_9", "subject": "Biology", "correct": 0.0, "candidate": "D", "expected": "E"}
+{"qa_id": "validation_Biology_8", "subject": "Biology", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Biology_7", "subject": "Biology", "correct": 1.0, "candidate": "I", "expected": "I"}
+{"qa_id": "validation_Biology_6", "subject": "Biology", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Biology_5", "subject": "Biology", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Biology_4", "subject": "Biology", "correct": 0.0, "candidate": "AD", "expected": "B"}
+{"qa_id": "validation_Biology_3", "subject": "Biology", "correct": 0.0, "candidate": "この画像は、ナトリウムイオン（$\\text{Na}^+$）の濃度勾配を利用して、グルコースなどの物質を細胞内へ取り込む「二次能動輸送」の仕組みを示しています。\n\n質問にある「アミノ酸の輸送」も、多くの場合、$\\text{Na}^+$ の", "expected": "A"}
+{"qa_id": "validation_Biology_2", "subject": "Biology", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Biology_1", "subject": "Biology", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Basic_Medical_Science_30", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_29", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Basic_Medical_Science_28", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_27", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Basic_Medical_Science_26", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "植物", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_25", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_24", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_23", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "B", "expected": "E"}
+{"qa_id": "validation_Basic_Medical_Science_22", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "正", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_21", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_20", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "いいえ、再生しません。", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_19", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "垂直", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_18", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_17", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "E", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_16", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "正", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_15", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "内包膝", "expected": "C"}
+{"qa_id": "validation_Basic_Medical_Science_14", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には選択肢（A, B, C, D など）が含まれていないため、正解を特定することができません。\n\n画像に示されているプロセスは、**「遺伝子組換え技術（または組換えDNA技術）」**です。\n\n具体的な流れは以下の", "expected": "形質転換"}
+{"qa_id": "validation_Basic_Medical_Science_13", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "III.", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_12", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_11", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "心筋", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_10", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "a, c", "expected": "C"}
+{"qa_id": "validation_Basic_Medical_Science_9", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "再分極", "expected": "D"}
+{"qa_id": "validation_Basic_Medical_Science_8", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_7", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_6", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "この問題の文脈（喘息の病態生理、樹状細胞の活性化、Th2細胞への分化）において、空欄に入る最も適切なプロセスは、樹状細胞が抗原提示を行い、ナイーブT細胞をTh2細胞へと分化させる過程です。\n\nしかし、", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_5", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "アドレナリン作動性シナプス", "expected": "A"}
+{"qa_id": "validation_Basic_Medical_Science_4", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Basic_Medical_Science_3", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Basic_Medical_Science_2", "subject": "Basic_Medical_Science", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Basic_Medical_Science_1", "subject": "Basic_Medical_Science", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_30", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題では、まず温度変化による測定値の補正を行い、次に図形の面積を計算し、最後に誤差伝播の法則を用いて面積の誤差と標準誤差を求めます。\n\n### 1. 温度補正\n測定値は50°Cで測定されましたが、標準温度は", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_29", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_28", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_27", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Architecture_and_Engineering_26", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、三角形ABCの各辺の長さと、外部の点Oからの観測角を用いて、OAとOCの距離を求めるものです。\n\n**1. 三角形ABCの各角を求める**\n余弦定理を用いて、$\\angle BAC$（これを$x$とする）を求め", "expected": "D"}
+{"qa_id": "validation_Architecture_and_Engineering_25", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_24", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題では、与えられたオフセット（図から読み取れる各地点の高さ）を用いて、台形法とシンプソン法で面積を計算します。\n\nまず、図から各地点（$x = 0, 20, 40, \\dots, 16", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_23", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Architecture_and_Engineering_22", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、閉合トラバースの各点における内角を計算し、その合計が閉合条件（五角形なので $180^\\circ \\times (5-2) = 540^\\circ$）を満たすように誤差を補正するものです。\n\n### ", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_21", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、図形における相似と線分の比を利用して解きます。\n\n1.  **与えられた条件の整理:**\n    *   $HB = 80\\text{ m}$\n    *   $GH = 40\\text{ m}$\n    *   $", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_20", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_19", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像には、問題文で言及されている「集中荷重の位置」や「梁CMの具体的な定義（どの部材を指すか）」、および「トラスの幾何学的詳細（各部材の角度や正確な座標）」に関する情報が不足している", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_18", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、トラバース（水準測量・平面測量）の閉合計算に関するものです。\n\nまず、与えられた各線分の座標変化量（$\\Delta N$: 北方向、$\\Delta E$: 東方向）を合計して、点Aから点Fまでの総変化量を求め", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_17", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Architecture_and_Engineering_16", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、Greenshieldsモデルを用いて道路の容量（Capacity）を求めるものです。\n\n### 1. Greenshieldsモデルの定義\nGreenshieldsモデルは、速度 ($v$) と交通密度 ($k$) の間に線形関係があるとするモデルです。\n$$", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_15", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、3ヒンジ放物線アーチの静定構造解析に関するものです。\n\n### 1. 放物線の方程式の整理\n与えられた方程式は $y = \\frac{4h x^2}{L^2}$ ですが、図の座標系（B点が", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_14", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "申し訳ありませんが、ご提示いただいた画像と問題文には、計算に必要な**慣性モーメント $I$ の具体的な値（または断面形状の詳細）が不足しています**。\n\n問題文に「$I = 0.5IG$ と仮定しなさい」とありますが、これは通常", "expected": "1.06"}
+{"qa_id": "validation_Architecture_and_Engineering_13", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、構造物の変位を求めるために「仮想仕事の原理（Virtual Work Method）」を使用します。\n\n### 1. 幾何学的情報の整理\n各部材の長さ $L$ と角度 $\\theta$ を求めます。\n座標系を $A$ を原点 $(", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_12", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、衛星局 $S$ からの観測データを用いて、三角点 $A$ から見た各点（$B, C, D$）の方位角を求めるものです。\n\n### 1. 座標系の設定\nまず、点 $S$ を原点 $(0, ", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_11", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_10", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "D.M.D法（Double Meridian Distance法）を用いて面積を計算します。\n\nまず、各辺の緯距（$\\Delta y$）と経距（$\\Delta x$）を整理します。\n（※一般的に測量では緯距を $y$、経距を $", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_9", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、プリズモイダル法（Prismoidal Rule）を用いて盛土の土工量を計算するものです。\n\n### 1. 各地点における盛土の断面積 ($A$) の計算\n\nまず、各地点（0m, 100m, 200", "expected": "B"}
+{"qa_id": "validation_Architecture_and_Engineering_8", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、重み付き最小二乗法を用いて、観測値から最も確からしい角度 $\\alpha$ と $\\beta$ を求めるものです。\n\n### 1. 与えられたデータ\n観測値と重み（$w$）を整理します。\n*   観測1", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_7", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_6", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_5", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、多角形の各辺の方位角を求めるものです。\n\n方位角 $\\alpha_{ij}$ と、頂点 $j$ における内角 $\\beta_j$ の関係は、以下の式で表されます（時計回りの方位角の場合）：\n$\\alpha_{j,j", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_4", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、測量における「二点観測法（または、機器設置点の移動による高さの差の補正）」を用いて、A点とB点の高低差を求めるものです。\n\nまず、各観測点におけるA点とB点の「見かけの標尺差」を", "expected": "C"}
+{"qa_id": "validation_Architecture_and_Engineering_3", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_2", "subject": "Architecture_and_Engineering", "correct": 1.0, "candidate": "To solve this problem, we need to follow these steps:\n\n### 1. Calculate the Ground Sample Distance (Scale) and Field of View (FOV) for Camera A\nThe scale of the image on the ground is determined by the ratio of the focal length to the flight altitude.\n*   **Flight Altitude", "expected": "A"}
+{"qa_id": "validation_Architecture_and_Engineering_1", "subject": "Architecture_and_Engineering", "correct": 0.0, "candidate": "この問題は、トラスの部材力（特にCG間の部材）を求めるものです。\n\n### 1. 荷重条件の整理\n*   **等分布荷重 ($w$):** $0.32 \\text{ kip/ft}$ が上弦材（$B-C", "expected": "A"}
+{"qa_id": "validation_Agriculture_30", "subject": "Agriculture", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Agriculture_29", "subject": "Agriculture", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Agriculture_28", "subject": "Agriculture", "correct": 1.0, "candidate": "E", "expected": "E"}
+{"qa_id": "validation_Agriculture_27", "subject": "Agriculture", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Agriculture_26", "subject": "Agriculture", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Agriculture_25", "subject": "Agriculture", "correct": 0.0, "candidate": "D", "expected": "E"}
+{"qa_id": "validation_Agriculture_24", "subject": "Agriculture", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Agriculture_23", "subject": "Agriculture", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Agriculture_22", "subject": "Agriculture", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Agriculture_21", "subject": "Agriculture", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Agriculture_20", "subject": "Agriculture", "correct": 0.0, "candidate": "C", "expected": "E"}
+{"qa_id": "validation_Agriculture_19", "subject": "Agriculture", "correct": 1.0, "candidate": "D", "expected": "D"}
+{"qa_id": "validation_Agriculture_18", "subject": "Agriculture", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Agriculture_17", "subject": "Agriculture", "correct": 0.0, "candidate": "C", "expected": "E"}
+{"qa_id": "validation_Agriculture_16", "subject": "Agriculture", "correct": 0.0, "candidate": "C", "expected": "D"}
+{"qa_id": "validation_Agriculture_15", "subject": "Agriculture", "correct": 0.0, "candidate": "D", "expected": "B"}
+{"qa_id": "validation_Agriculture_14", "subject": "Agriculture", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Agriculture_13", "subject": "Agriculture", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Agriculture_12", "subject": "Agriculture", "correct": 0.0, "candidate": "この問題には、画像の内容と質問の内容が一致していない（画像は微生物のようですが、質問は胃の筋肉について尋ねている）という矛盾がありますが、質問文の「胃の入口と出口にある円形の筋肉の輪」に対する医学的な回答に基づくと、選択肢の中に直接的な正解", "expected": "A"}
+{"qa_id": "validation_Agriculture_11", "subject": "Agriculture", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Agriculture_10", "subject": "Agriculture", "correct": 0.0, "candidate": "C", "expected": "B"}
+{"qa_id": "validation_Agriculture_9", "subject": "Agriculture", "correct": 0.0, "candidate": "B", "expected": "D"}
+{"qa_id": "validation_Agriculture_8", "subject": "Agriculture", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Agriculture_7", "subject": "Agriculture", "correct": 1.0, "candidate": "E", "expected": "E"}
+{"qa_id": "validation_Agriculture_6", "subject": "Agriculture", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Agriculture_5", "subject": "Agriculture", "correct": 0.0, "candidate": "D", "expected": "C"}
+{"qa_id": "validation_Agriculture_4", "subject": "Agriculture", "correct": 0.0, "candidate": "B", "expected": "E"}
+{"qa_id": "validation_Agriculture_3", "subject": "Agriculture", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Agriculture_2", "subject": "Agriculture", "correct": 0.0, "candidate": "C", "expected": "E"}
+{"qa_id": "validation_Agriculture_1", "subject": "Agriculture", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Accounting_30", "subject": "Accounting", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Accounting_29", "subject": "Accounting", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Accounting_28", "subject": "Accounting", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Accounting_27", "subject": "Accounting", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Accounting_26", "subject": "Accounting", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Accounting_25", "subject": "Accounting", "correct": 1.0, "candidate": "B", "expected": "B"}
+{"qa_id": "validation_Accounting_24", "subject": "Accounting", "correct": 0.0, "candidate": "C", "expected": "A"}
+{"qa_id": "validation_Accounting_23", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Accounting_22", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Accounting_21", "subject": "Accounting", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Accounting_20", "subject": "Accounting", "correct": 0.0, "candidate": "この問題は、多因子モデル（APTモデル）を用いて、ポートフォリオの期待収益率を求めるものです。\n\n### 1. モデルの定義\nAPTモデルにおける期待収益率 $E(R_p)$ は以下の式で表されます。\n$$E(R_p) =", "expected": "B"}
+{"qa_id": "validation_Accounting_19", "subject": "Accounting", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Accounting_18", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "D"}
+{"qa_id": "validation_Accounting_17", "subject": "Accounting", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Accounting_16", "subject": "Accounting", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Accounting_15", "subject": "Accounting", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Accounting_14", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Accounting_13", "subject": "Accounting", "correct": 0.0, "candidate": "B", "expected": "C"}
+{"qa_id": "validation_Accounting_12", "subject": "Accounting", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Accounting_11", "subject": "Accounting", "correct": 0.0, "candidate": "B", "expected": "A"}
+{"qa_id": "validation_Accounting_10", "subject": "Accounting", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Accounting_9", "subject": "Accounting", "correct": 1.0, "candidate": "C", "expected": "C"}
+{"qa_id": "validation_Accounting_8", "subject": "Accounting", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Accounting_7", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Accounting_6", "subject": "Accounting", "correct": 1.0, "candidate": "A", "expected": "A"}
+{"qa_id": "validation_Accounting_5", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "B"}
+{"qa_id": "validation_Accounting_4", "subject": "Accounting", "correct": 0.0, "candidate": "まず、与えられた数式の構造を確認します。\n\n**数式:**\n期首残高 + 当期純利益 - 当期純損失 + 投資関連 - 販売費 = 期末残高\n\nこの式を用いて、各会社の欠けている値を計算します。\n\n**会社1の検証（", "expected": "D"}
+{"qa_id": "validation_Accounting_3", "subject": "Accounting", "correct": 0.0, "candidate": "プロジェクトB", "expected": "B"}
+{"qa_id": "validation_Accounting_2", "subject": "Accounting", "correct": 0.0, "candidate": "A", "expected": "C"}
+{"qa_id": "validation_Accounting_1", "subject": "Accounting", "correct": 0.0, "candidate": "C", "expected": "B"}
