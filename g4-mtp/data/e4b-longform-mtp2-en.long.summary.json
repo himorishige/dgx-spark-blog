@@ -1,0 +1,49 @@
+{
+  "label": "e4b-longform-mtp2-en",
+  "model": "gemma4-e4b",
+  "lang": "en",
+  "rounds": 12,
+  "max_tokens": 256,
+  "cold": {
+    "elapsed_s": 4.463373184204102,
+    "completion_tokens": 149,
+    "tok_per_s": 33.38282367410184
+  },
+  "warm": {
+    "n": 11,
+    "p50_s": 4.234010219573975,
+    "p95_s": 5.5056633949279785,
+    "mean_tps": 37.60032763127508,
+    "median_tps": 37.40365633495517,
+    "stdev_tps": 1.4799740439370261,
+    "total_completion_tokens": 1813,
+    "total_elapsed_s": 48.21766495704651
+  },
+  "all": {
+    "n": 12,
+    "p50_s": 4.348691701889038,
+    "p95_s": 5.5056633949279785,
+    "mean_tps": 37.2430018318812,
+    "median_tps": 37.368374507123434,
+    "stdev_tps": 1.8579496466195606,
+    "total_completion_tokens": 1962,
+    "total_elapsed_s": 52.68103814125061
+  },
+  "metrics_before": {
+    "vllm:spec_decode_num_drafts_total": 0.0,
+    "vllm:spec_decode_num_draft_tokens_total": 0.0,
+    "vllm:spec_decode_num_accepted_tokens_total": 0.0
+  },
+  "metrics_after": {
+    "vllm:spec_decode_num_drafts_total": 1065.0,
+    "vllm:spec_decode_num_draft_tokens_total": 2130.0,
+    "vllm:spec_decode_num_accepted_tokens_total": 895.0,
+    "acceptance_rate": 0.42018779342723006
+  },
+  "metrics_delta": {
+    "vllm:spec_decode_num_drafts_total": 1065.0,
+    "vllm:spec_decode_num_draft_tokens_total": 2130.0,
+    "vllm:spec_decode_num_accepted_tokens_total": 895.0,
+    "acceptance_rate": 0.42018779342723006
+  }
+}

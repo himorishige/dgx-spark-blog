@@ -1,0 +1,12 @@
+{"round": 1, "elapsed_s": 16.437605381011963, "completion_tokens": 108, "tok_per_s": 6.570300083049633, "head": "DGX Sparkは、AI開発のボトルネックとなるデータ前処理を劇的に効率化するソリューションです。  最大の特徴は、Apache Sparkの処理をGPUで加"}
+{"round": 2, "elapsed_s": 15.88033413887024, "completion_tokens": 104, "tok_per_s": 6.548980587596048, "head": "従来の autoregressive（自己回帰）デコードは、「次に来る1つの単語」だけを予測し、それを順次積み重ねて文章を作ります。  対して Multi-To"}
+{"round": 3, "elapsed_s": 16.962275505065918, "completion_tokens": 111, "tok_per_s": 6.543933328217017, "head": "Speculative Decodingは、軽量な「ドラフトモデル」が数トークン先まで高速に予測し、それを巨大な「ターゲットモデル」が一度に検証・修正する手法で"}
+{"round": 4, "elapsed_s": 20.764237642288208, "completion_tokens": 136, "tok_per_s": 6.549722765791505, "head": "Gemma 4シリーズは、用途に合わせてモデルサイズと機能が最適化されています。  *   **2B / 4B**: 軽量モデル。低リソース環境で動作し、テキス"}
+{"round": 5, "elapsed_s": 17.441911220550537, "completion_tokens": 114, "tok_per_s": 6.53598098043763, "head": "Triton attention backendは、主に**GPUアーキテクチャに最適化されたカスタムカーネルを、CUDA C++を記述せずにPythonベース"}
+{"round": 6, "elapsed_s": 18.671600580215454, "completion_tokens": 122, "tok_per_s": 6.5339872431328665, "head": "NVFP4（NVIDIA FP4）をweight-only圧縮として動作させるには、**「重みのみをFP4で保持し、計算時にのみ高精度（BF16/FP16等）に"}
+{"round": 7, "elapsed_s": 17.340790510177612, "completion_tokens": 113, "tok_per_s": 6.516427260549531, "head": "MoEモデルのdrafterがbatch_size=1で加速しにくい理由は、**メモリ帯域幅のボトルネック**にあります。  MoEはパラメータ数が膨大ですが、"}
+{"round": 8, "elapsed_s": 17.80405068397522, "completion_tokens": 116, "tok_per_s": 6.515371252251455, "head": "「Centroids Masking」とは、データ群の代表点（重心）を特定し、あえてそれをマスク（隠蔽）することでモデルに「欠落した情報の補完」を強いる最適化手"}
+{"round": 9, "elapsed_s": 16.902931690216064, "completion_tokens": 110, "tok_per_s": 6.507746822621982, "head": "DGX Sparkの128GB統合メモリは、CPUとGPUが高速なメモリ空間を共有することで、データ転送のボトルネックを解消し、大規模モデルの推論・学習を効率化"}
+{"round": 10, "elapsed_s": 16.728302240371704, "completion_tokens": 109, "tok_per_s": 6.515903313663348, "head": "投機的デコーディングにおける**採択率 (Acceptance Rate)** とは、下位モデル（ドラフトモデル）が予測したトークンのうち、上位モデル（検証モデ"}
+{"round": 11, "elapsed_s": 16.594727754592896, "completion_tokens": 108, "tok_per_s": 6.508091099602946, "head": "DGX Sparkは、AI開発のボトルネックとなるデータ前処理を劇的に効率化するソリューションです。  最大の特徴は、Apache Sparkの処理をGPUで加"}
+{"round": 12, "elapsed_s": 15.973275661468506, "completion_tokens": 104, "tok_per_s": 6.510874926604675, "head": "従来の autoregressive（自己回帰）デコードは、「次に来る1つの単語」だけを予測し、それを順次積み重ねて文章を作ります。  対して Multi-To"}

@@ -1,0 +1,31 @@
+{
+  "label": "e2b-longform-baseline",
+  "model": "gemma4-e2b",
+  "rounds": 12,
+  "max_tokens": 256,
+  "cold": {
+    "elapsed_s": 3.823517322540283,
+    "completion_tokens": 139,
+    "tok_per_s": 36.35396109769699
+  },
+  "warm": {
+    "n": 11,
+    "p50_s": 3.3399038314819336,
+    "p95_s": 4.021079778671265,
+    "mean_tps": 36.53394173377557,
+    "median_tps": 36.534315781734264,
+    "stdev_tps": 0.04987204167167664,
+    "total_completion_tokens": 1288,
+    "total_elapsed_s": 35.254887342453
+  },
+  "all": {
+    "n": 12,
+    "p50_s": 3.353540062904358,
+    "p95_s": 4.021079778671265,
+    "mean_tps": 36.51633203128982,
+    "median_tps": 36.53171983364953,
+    "stdev_tps": 0.06947179332847409,
+    "total_completion_tokens": 1427,
+    "total_elapsed_s": 39.078404664993286
+  }
+}

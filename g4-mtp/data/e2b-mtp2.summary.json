@@ -1,0 +1,12 @@
+{
+  "label": "e2b-mtp2",
+  "model": "gemma4-e2b",
+  "n": 200,
+  "accuracy": 0.88,
+  "parsed_rate": 1.0,
+  "p50_s": 0.08274781703948975,
+  "p95_s": 0.08510063886642456,
+  "mean_tps": 22.998524573923103,
+  "total_completion_tokens": 400,
+  "total_elapsed_s": 17.392420053482056
+}

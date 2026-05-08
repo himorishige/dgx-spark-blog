@@ -1,0 +1,31 @@
+{
+  "label": "26b-a4b-longform-baseline",
+  "model": "gemma4-a4b",
+  "rounds": 12,
+  "max_tokens": 256,
+  "cold": {
+    "elapsed_s": 4.095539569854736,
+    "completion_tokens": 114,
+    "tok_per_s": 27.83516019210222
+  },
+  "warm": {
+    "n": 11,
+    "p50_s": 4.415801763534546,
+    "p95_s": 4.994003772735596,
+    "mean_tps": 28.077299126639314,
+    "median_tps": 28.080970713854356,
+    "stdev_tps": 0.05839283887861994,
+    "total_completion_tokens": 1313,
+    "total_elapsed_s": 46.76375722885132
+  },
+  "all": {
+    "n": 12,
+    "p50_s": 4.289027810096741,
+    "p95_s": 4.994003772735596,
+    "mean_tps": 28.057800438096212,
+    "median_tps": 28.079471660525137,
+    "stdev_tps": 0.08892383160477944,
+    "total_completion_tokens": 1427,
+    "total_elapsed_s": 50.859296798706055
+  }
+}

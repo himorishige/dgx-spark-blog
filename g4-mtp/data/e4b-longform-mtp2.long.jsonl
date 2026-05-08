@@ -1,0 +1,12 @@
+{"round": 1, "elapsed_s": 4.302220106124878, "completion_tokens": 119, "tok_per_s": 27.660137571898062, "head": "## DGX SparkでAI開発を加速！🚀  DGX Sparkは、最先端のAI開発を強力にサポートするプラットフォームです。複雑な大規模モデルの学習や推論を"}
+{"round": 2, "elapsed_s": 2.4437034130096436, "completion_tokens": 90, "tok_per_s": 36.82934660600109, "head": "**従来の自己回帰デコード**は、一度に**一つのトークンずつ**予測し、その結果を次の入力に使う「逐次的な」方法です。  一方、**MTP**は、文脈全体を考"}
+{"round": 3, "elapsed_s": 2.830303430557251, "completion_tokens": 113, "tok_per_s": 39.92504788709235, "head": "Speculative Decoding は、**軽量な草案モデル（Draft Model）**を使って次のトークンを高速に予測し、それを**メインの高性能モデ"}
+{"round": 4, "elapsed_s": 3.793557643890381, "completion_tokens": 155, "tok_per_s": 40.8587438363119, "head": "Gemma 4 シリーズのモデルサイズ（E2B, E4B, 26B, 31B）は、**パラメータ数**の違いによるものです。  * **E2B/E4B:** よ"}
+{"round": 5, "elapsed_s": 2.8264873027801514, "completion_tokens": 105, "tok_per_s": 37.14858364894168, "head": "Triton Attention Backend は、**大規模モデルにおける計算効率とスケーラビリティが最優先される場面**で選ばれます。  特に、**GPU"}
+{"round": 6, "elapsed_s": 4.176160097122192, "completion_tokens": 171, "tok_per_s": 40.94670607044896, "head": "NVFP4 量子化が weight-only 圧縮として機能する主な条件は、**モデルの重み（weights）が量子化に適した分布を持ち、かつ量子化誤差が許容範"}
+{"round": 7, "elapsed_s": 3.120327949523926, "completion_tokens": 126, "tok_per_s": 40.38037092198083, "head": "MoEモデルのdrafterが`batch_size=1`でスピードアップしにくいのは、**並列化の恩恵を受けにくい**ためです。  Drafterは、入力トー"}
+{"round": 8, "elapsed_s": 2.8685662746429443, "completion_tokens": 109, "tok_per_s": 37.99807623882332, "head": "セントロイドマスキングは、データセット内の「中心点（セントロイド）」を特定し、それに基づいてノイズや外れ値の影響を抑制する最適化手法です。  まるで、集団の中の"}
+{"round": 9, "elapsed_s": 2.776770830154419, "completion_tokens": 110, "tok_per_s": 39.614360250926, "head": "DGX Spark の統合メモリ 128GB は、大規模モデルの**巨大なパラメータや中間計算結果をホストメモリ内に保持**できるため、VRAM不足による処理の"}
+{"round": 10, "elapsed_s": 2.5891458988189697, "completion_tokens": 105, "tok_per_s": 40.55391395590932, "head": "Speculative Decodingにおける採択率（Acceptance Rate）は、**予測モデル（草案生成モデル）が生成したトークンが、ターゲットモデ"}
+{"round": 11, "elapsed_s": 3.548068046569824, "completion_tokens": 119, "tok_per_s": 33.53937930109485, "head": "## DGX SparkでAI開発を加速！🚀  DGX Sparkは、最先端のAI開発を強力にサポートするプラットフォームです。複雑な大規模モデルの学習や推論を"}
+{"round": 12, "elapsed_s": 2.440674066543579, "completion_tokens": 90, "tok_per_s": 36.87505891659501, "head": "**従来の自己回帰デコード**は、一度に**一つのトークンずつ**予測し、その結果を次の入力に使う「逐次的な」方法です。  一方、**MTP**は、文脈全体を考"}

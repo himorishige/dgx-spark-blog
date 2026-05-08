@@ -1,0 +1,12 @@
+{"round": 1, "elapsed_s": 3.823517322540283, "completion_tokens": 139, "tok_per_s": 36.35396109769699, "head": "## DGX Spark：AI開発を加速する最強のパートナー！🚀  「AI開発って、計算リソースがネックで進まない…」そんな悩みを抱えていませんか？  **DG"}
+{"round": 2, "elapsed_s": 2.4058430194854736, "completion_tokens": 88, "tok_per_s": 36.577615117556654, "head": "**従来のデコード**は、一つ前の単語を予測してから次の単語を予測する、**順番に**生成していく方法です。  一方、**MTP（Multi-Token Pre"}
+{"round": 3, "elapsed_s": 2.7938833236694336, "completion_tokens": 102, "tok_per_s": 36.508324859477355, "head": "vLLM の speculative decoding は、**逐次的なトークン生成のボトルネックを解消**することで高速化を実現します。  モデルが次のトーク"}
+{"round": 4, "elapsed_s": 3.7454051971435547, "completion_tokens": 137, "tok_per_s": 36.57815183908099, "head": "Gemma 4シリーズにおけるE2B、E4B、26B、31Bは、主に**モデルのサイズ（パラメータ数）**の違いを示しています。  * **E2B / E4B:"}
+{"round": 5, "elapsed_s": 3.4761838912963867, "completion_tokens": 127, "tok_per_s": 36.534315781734264, "head": "Triton Attention Backendが選ばれるのは、**高性能なTransformerモデルの推論**においてです。  特に、**動的なシーケンス長"}
+{"round": 6, "elapsed_s": 3.3671762943267822, "completion_tokens": 123, "tok_per_s": 36.52912388556479, "head": "NVFP4の量子化が**weight-only圧縮**として機能するのは、**モデルの重み（weights）のみを量子化し、アクティベーション（activati"}
+{"round": 7, "elapsed_s": 4.021079778671265, "completion_tokens": 147, "tok_per_s": 36.55734481561941, "head": "MoEモデルのドラフターが`batch_size=1`でスループット向上を出しにくい主な理由は、**並列化の恩恵が限定的**だからです。  MoEの核となるのは"}
+{"round": 8, "elapsed_s": 3.773569107055664, "completion_tokens": 138, "tok_per_s": 36.5701531057092, "head": "## Centroids Masking：意味の「中心」を捉える魔法  Centroids Maskingは、テキストの**意味的な中心（セントロイド）**を特"}
+{"round": 9, "elapsed_s": 2.743999719619751, "completion_tokens": 100, "tok_per_s": 36.44315241178577, "head": "DGX Spark の統合メモリ 128GB は、大規模モデルの運用において、**巨大なモデルや大量のデータをメモリ上に保持できる**ことを可能にします。これに"}
+{"round": 10, "elapsed_s": 3.2000749111175537, "completion_tokens": 117, "tok_per_s": 36.56164410199398, "head": "推論時の**採択率（Acceptance Rate）**は、生成モデルが提案する次のトークン（単語や文字）が、実際にモデルによって選択され、出力シーケンスに追加"}
+{"round": 11, "elapsed_s": 3.3399038314819336, "completion_tokens": 122, "tok_per_s": 36.52799785731194, "head": "## DGX Spark：AI開発を加速する最強のパートナー！🚀  「AI開発って、計算リソースがネックで進まない…」そんな悩みを解決するのが **DGX Sp"}
+{"round": 12, "elapsed_s": 2.387768268585205, "completion_tokens": 87, "tok_per_s": 36.435696522405436, "head": "**従来のデコード**は、一つ前の単語を予測してから次の単語を予測する、**順番に**生成していく方法です。  一方、**MTP（Multi-Token Pre"}

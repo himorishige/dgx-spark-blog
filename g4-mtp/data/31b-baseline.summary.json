@@ -1,0 +1,12 @@
+{
+  "label": "31b-baseline",
+  "model": "gemma4-31b",
+  "n": 200,
+  "accuracy": 0.98,
+  "parsed_rate": 1.0,
+  "p50_s": 0.47661423683166504,
+  "p95_s": 0.4803041458129883,
+  "mean_tps": 4.167377324890684,
+  "total_completion_tokens": 400,
+  "total_elapsed_s": 95.98362922668457
+}

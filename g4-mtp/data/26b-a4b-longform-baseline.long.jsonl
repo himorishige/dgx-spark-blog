@@ -1,0 +1,12 @@
+{"round": 1, "elapsed_s": 4.095539569854736, "completion_tokens": 114, "tok_per_s": 27.83516019210222, "head": "DGX Sparkは、大規模なデータ処理とAIモデルの学習を劇的に高速化する、データサイエンティストにとっての「強力な武器」です。  従来の環境では膨大な時間が"}
+{"round": 2, "elapsed_s": 4.415801763534546, "completion_tokens": 124, "tok_per_s": 28.080970713854356, "head": "従来の**Autoregressive（自己回帰）デコード**は、「次の1単語」を予測してはそれを入力に戻し、また次の1単語を予測するという作業を1つずつ繰り返"}
+{"round": 3, "elapsed_s": 3.81612491607666, "completion_tokens": 107, "tok_per_s": 28.038914436272226, "head": "Speculative Decodingは、「軽量なモデル（ドラフトモデル）」と「巨大なモデル（ターゲットモデル）」の2つを用いる手法です。  まず、軽量モデル"}
+{"round": 4, "elapsed_s": 4.522022485733032, "completion_tokens": 127, "tok_per_s": 28.084778525689472, "head": "Gemma 4 シリーズの各モデルは、主にパラメータ数（モデルの規模）の違いによって性能と動作環境が異なります。  **E2B / E4B** は軽量な小型モデ"}
+{"round": 5, "elapsed_s": 4.516289949417114, "completion_tokens": 127, "tok_per_s": 28.120426594043412, "head": "Triton attention backendは、主に**特定のハードウェア構成やカスタムな計算要件**がある場面で選ばれます。  標準的なFlashAtte"}
+{"round": 6, "elapsed_s": 4.558733701705933, "completion_tokens": 128, "tok_per_s": 28.077972607195914, "head": "NVFP4がWeight-only圧縮として動作する条件は、**「推論時に重み（Weight）のみを4ビットに量子化し、計算時にはそれらを元の精度（FP16/B"}
+{"round": 7, "elapsed_s": 4.994003772735596, "completion_tokens": 140, "tok_per_s": 28.03361919034181, "head": "MoEモデルのSpeculative Decodingにおいて、drafterがbatch_size=1で低速な理由は、主に**計算資源の利用効率（スループット"}
+{"round": 8, "elapsed_s": 4.1622538566589355, "completion_tokens": 117, "tok_per_s": 28.10977033820723, "head": "「Centroids Masking」は、データの中心（重心）が持つ「平均的な性質」をあえて隠蔽（マスク）することで、データの多様性や特異なパターンを浮き彫りに"}
+{"round": 9, "elapsed_s": 3.926276922225952, "completion_tokens": 110, "tok_per_s": 28.016363129485253, "head": "DGX Sparkの128GB統合メモリは、大規模言語モデル（LLM）の運用において、モデルパラメータやKVキャッシュを高速なメモリ空間に広大に保持できる点が最"}
+{"round": 10, "elapsed_s": 3.4688048362731934, "completion_tokens": 97, "tok_per_s": 27.96352189828432, "head": "Speculative decodingにおける**採択率（acceptance rate）**とは、軽量なドラフトモデルが生成したトークン候補が、メインのター"}
+{"round": 11, "elapsed_s": 3.94168758392334, "completion_tokens": 111, "tok_per_s": 28.16052709319917, "head": "DGX Sparkは、大規模なデータ処理とAIモデルの学習を、極めて高い効率で実現する強力なソリューションです。  ユーザー視点では、複雑なデータパイプラインの"}
+{"round": 12, "elapsed_s": 4.441757440567017, "completion_tokens": 125, "tok_per_s": 28.142013982655254, "head": "従来の**Autoregressive（自己回帰）デコード**は、「次の1単語」を予測してはそれを入力に戻し、1つずつ順番に生成する手法です。そのため、生成速度"}

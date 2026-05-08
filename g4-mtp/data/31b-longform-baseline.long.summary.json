@@ -1,0 +1,31 @@
+{
+  "label": "31b-longform-baseline",
+  "model": "gemma4-31b",
+  "rounds": 12,
+  "max_tokens": 256,
+  "cold": {
+    "elapsed_s": 16.437605381011963,
+    "completion_tokens": 108,
+    "tok_per_s": 6.570300083049633
+  },
+  "warm": {
+    "n": 11,
+    "p50_s": 16.962275505065918,
+    "p95_s": 20.764237642288208,
+    "mean_tps": 6.526593935964411,
+    "median_tps": 6.516427260549531,
+    "stdev_tps": 0.01662837496761351,
+    "total_completion_tokens": 1247,
+    "total_elapsed_s": 191.06443762779236
+  },
+  "all": {
+    "n": 12,
+    "p50_s": 16.93260359764099,
+    "p95_s": 20.764237642288208,
+    "mean_tps": 6.530056188133566,
+    "median_tps": 6.5252072518411985,
+    "stdev_tps": 0.020352494622802732,
+    "total_completion_tokens": 1355,
+    "total_elapsed_s": 207.50204300880432
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "label": "31b-longform-mtp2",
+  "model": "gemma4-31b",
+  "rounds": 12,
+  "max_tokens": 256,
+  "cold": {
+    "elapsed_s": 9.285705327987671,
+    "completion_tokens": 104,
+    "tok_per_s": 11.200010804406832
+  },
+  "warm": {
+    "n": 11,
+    "p50_s": 9.538033962249756,
+    "p95_s": 10.331207036972046,
+    "mean_tps": 12.484116976839374,
+    "median_tps": 12.359217050571505,
+    "stdev_tps": 0.6795484658087526,
+    "total_completion_tokens": 1278,
+    "total_elapsed_s": 102.37007570266724
+  },
+  "all": {
+    "n": 12,
+    "p50_s": 9.411869645118713,
+    "p95_s": 10.331207036972046,
+    "mean_tps": 12.377325985661004,
+    "median_tps": 12.23982765742751,
+    "stdev_tps": 0.750102800191617,
+    "total_completion_tokens": 1382,
+    "total_elapsed_s": 111.65578103065491
+  },
+  "metrics_before": {
+    "vllm:spec_decode_num_drafts_total": 0.0,
+    "vllm:spec_decode_num_draft_tokens_total": 0.0,
+    "vllm:spec_decode_num_accepted_tokens_total": 0.0
+  },
+  "metrics_after": {
+    "vllm:spec_decode_num_drafts_total": 658.0,
+    "vllm:spec_decode_num_draft_tokens_total": 1316.0,
+    "vllm:spec_decode_num_accepted_tokens_total": 721.0,
+    "acceptance_rate": 0.5478723404255319
+  },
+  "metrics_delta": {
+    "vllm:spec_decode_num_drafts_total": 658.0,
+    "vllm:spec_decode_num_draft_tokens_total": 1316.0,
+    "vllm:spec_decode_num_accepted_tokens_total": 721.0,
+    "acceptance_rate": 0.5478723404255319
+  }
+}

@@ -1,0 +1,12 @@
+{"round": 1, "elapsed_s": 9.285705327987671, "completion_tokens": 104, "tok_per_s": 11.200010804406832, "head": "DGX Sparkは、AI開発の「データ準備」から「モデル学習」までを効率化する統合プラットフォームです。  最大の特徴は、膨大なデータの処理に強いSparkと"}
+{"round": 2, "elapsed_s": 9.721819639205933, "completion_tokens": 122, "tok_per_s": 12.549091068096057, "head": "従来のデコードは、次に来る**「1つのトークン」**だけを予測し、それを入力に加えて次の1つを予測する、という手順を繰り返します。  対してMTPは、一度に**"}
+{"round": 3, "elapsed_s": 8.309538125991821, "completion_tokens": 114, "tok_per_s": 13.719174070988817, "head": "Speculative Decodingは、軽量な「ドラフトモデル」が高速に数トークンを予測し、それを重量な「メインモデル」が一度に検証・修正することで高速化し"}
+{"round": 4, "elapsed_s": 10.116774559020996, "completion_tokens": 135, "tok_per_s": 13.344173996604704, "head": "Gemma 4シリーズは、用途に合わせてモデルサイズと機能が最適化されています。  *   **2B / 4B**: 軽量モデル。低リソース環境向けで、テキスト"}
+{"round": 5, "elapsed_s": 9.239747047424316, "completion_tokens": 109, "tok_per_s": 11.796859745244323, "head": "Triton attention backendは、主に**GPUアーキテクチャに最適化したカスタムカーネルを、CUDA C++を記述せずにPythonベースで"}
+{"round": 6, "elapsed_s": 10.31179165840149, "completion_tokens": 122, "tok_per_s": 11.831115682074609, "head": "NVFP4（NVIDIA FP4）をweight-only圧縮として動作させるには、**「重みのみをFP4で保持し、計算時にのみ高精度（BF16/FP16等）に"}
+{"round": 7, "elapsed_s": 10.331207036972046, "completion_tokens": 124, "tok_per_s": 12.002469755590429, "head": "MoEモデルのdrafterがbatch_size=1で加速しにくい理由は、**計算量よりもメモリ帯域幅がボトルネックとなるため**です。  MoEはパラメータ"}
+{"round": 8, "elapsed_s": 9.538033962249756, "completion_tokens": 114, "tok_per_s": 11.952148676676611, "head": "「Centroids Masking」とは、データ群の代表点（重心）を特定し、あえてその周辺をマスク（遮蔽）することで、モデルに「平均的な正解」ではなく「境界線"}
+{"round": 9, "elapsed_s": 8.576595067977905, "completion_tokens": 106, "tok_per_s": 12.359217050571505, "head": "DGX Sparkの128GB統合メモリは、GPUとCPU間でメモリを共有することで、データ転送のボトルネックを解消し、推論・学習の高速化を実現します。特に大規"}
+{"round": 10, "elapsed_s": 7.926810264587402, "completion_tokens": 106, "tok_per_s": 13.37233975102814, "head": "投機的デコーディングにおける**採択率（Acceptance Rate）**とは、下位モデル（ドラフトモデル）が予測したトークンのうち、上位モデル（検証モデル）"}
+{"round": 11, "elapsed_s": 8.58054780960083, "completion_tokens": 104, "tok_per_s": 12.120438264283514, "head": "DGX Sparkは、AI開発の「データ準備」から「モデル学習」までを効率化する統合プラットフォームです。  最大の特徴は、膨大なデータの処理に強いSparkと"}
+{"round": 12, "elapsed_s": 9.717210531234741, "completion_tokens": 122, "tok_per_s": 12.555043405496512, "head": "従来のデコードは、次に来る**「1つのトークン」**だけを予測し、それを入力に加えて次の1つを予測する、という手順を繰り返します。  対してMTPは、一度に**"}

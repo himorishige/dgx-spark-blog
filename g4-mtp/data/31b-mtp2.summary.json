@@ -1,0 +1,12 @@
+{
+  "label": "31b-mtp2",
+  "model": "gemma4-31b",
+  "n": 200,
+  "accuracy": 0.98,
+  "parsed_rate": 1.0,
+  "p50_s": 0.5192304849624634,
+  "p95_s": 0.5265525579452515,
+  "mean_tps": 3.8373708716280954,
+  "total_completion_tokens": 400,
+  "total_elapsed_s": 104.23803520202637
+}

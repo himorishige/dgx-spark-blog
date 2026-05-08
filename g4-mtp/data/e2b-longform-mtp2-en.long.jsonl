@@ -1,0 +1,12 @@
+{"round": 1, "elapsed_s": 2.824815511703491, "completion_tokens": 170, "tok_per_s": 60.180921301116165, "head": "## Unleash Unprecedented AI Power with DGX Spark  **Tired of complex setups hold"}
+{"round": 2, "elapsed_s": 1.910660982131958, "completion_tokens": 156, "tok_per_s": 81.64713753977, "head": "Imagine a language model predicting the next word.  **Traditional Autoregressive"}
+{"round": 3, "elapsed_s": 1.7942039966583252, "completion_tokens": 116, "tok_per_s": 64.65262602025636, "head": "vLLM's speculative decoding accelerates inference by predicting and executing mu"}
+{"round": 4, "elapsed_s": 2.3160793781280518, "completion_tokens": 179, "tok_per_s": 77.28577944710814, "head": "The Gemma 4 models, E2B, E4B, 26B, and 31B, primarily differ in their **paramete"}
+{"round": 5, "elapsed_s": 3.42923903465271, "completion_tokens": 240, "tok_per_s": 69.98637236272612, "head": "The Triton attention backend is chosen primarily in scenarios demanding **high-p"}
+{"round": 6, "elapsed_s": 2.951551675796509, "completion_tokens": 211, "tok_per_s": 71.48782172111532, "head": "NVFP4 quantization operates as **weight-only compression** when the model's **ac"}
+{"round": 7, "elapsed_s": 2.5085384845733643, "completion_tokens": 163, "tok_per_s": 64.9780742860407, "head": "A Mixture-of-Experts (MoE) model drafter faces difficulty achieving speedup at `"}
+{"round": 8, "elapsed_s": 2.05265474319458, "completion_tokens": 139, "tok_per_s": 67.71718451962946, "head": "Centroids masking is an optimization technique, often used in machine learning o"}
+{"round": 9, "elapsed_s": 2.261112689971924, "completion_tokens": 149, "tok_per_s": 65.89675988322817, "head": "The DGX Spark 128GB unified memory offers significant benefits for large-model o"}
+{"round": 10, "elapsed_s": 1.7511539459228516, "completion_tokens": 138, "tok_per_s": 78.80517890577262, "head": "In speculative decoding, the **acceptance rate** is a crucial metric that measur"}
+{"round": 11, "elapsed_s": 2.565697431564331, "completion_tokens": 170, "tok_per_s": 66.2587871463664, "head": "## Unleash Unprecedented AI Power with DGX Spark  **Tired of complex setups hold"}
+{"round": 12, "elapsed_s": 1.9083530902862549, "completion_tokens": 156, "tok_per_s": 81.74587857669455, "head": "Imagine a language model predicting the next word.  **Traditional Autoregressive"}

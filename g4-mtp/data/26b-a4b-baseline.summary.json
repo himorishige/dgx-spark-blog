@@ -1,0 +1,12 @@
+{
+  "label": "26b-a4b-baseline",
+  "model": "gemma4-a4b",
+  "n": 200,
+  "accuracy": 0.975,
+  "parsed_rate": 1.0,
+  "p50_s": 0.12769818305969238,
+  "p95_s": 0.1317208528518677,
+  "mean_tps": 15.232473220990425,
+  "total_completion_tokens": 400,
+  "total_elapsed_s": 26.25968837738037
+}
