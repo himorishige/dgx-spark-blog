@@ -16,12 +16,14 @@ DGX Spark 関連の技術ブログ記事で使用したスクリプト・デー�
 | `sam1-zero-shot-detection/` | [SAM 3.1 を DGX Spark で動かしてゼロショット物体検出を試してみた](https://dev.classmethod.jp/articles/dgx-spark-sam3-zero-shot-detection/) |
 | `v1-vss-agent/` | [DGX Spark で映像検索 AI エージェントを動かしてみた（VSS Agent）](https://dev.classmethod.jp/articles/dgx-spark-vss-agent) |
 | `langfuse-handson/` | [Langfuse を DGX Spark で Self-host して LLM アプリの観測と評価を試してみた](https://dev.classmethod.jp/articles/langfuse-self-host-llm-observability-handson/) |
+| `g4-mtp/` | [Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/) |
+| `omni2-japanese-multimodal-bench/` | [Nemotron 3 Nano Omni / Gemma 4 / Cosmos-Reason2 を日本語マルチモーダルベンチで比べてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-nano-omni-japanese-multimodal-bench/) |
 
 ## Environment
 
 - **Hardware**: NVIDIA DGX Spark (Grace Blackwell GB10, 128GB unified memory)
 - **Container**: NGC NeMo (`nvcr.io/nvidia/nemo:25.11.01`)
-- **Inference**: Ollama + GGUF
+- **Inference**: vLLM (nightly) / Ollama / GGUF
 
 ## License
 
