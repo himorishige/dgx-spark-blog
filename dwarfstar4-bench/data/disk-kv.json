@@ -1,0 +1,15 @@
+{
+  "cold_s": 115.18210887908936,
+  "warm_s": 7.65239953994751,
+  "evict_s": 0.8819916248321533,
+  "cold_usage": {
+    "prompt_tokens": 31930,
+    "completion_tokens": 24,
+    "total_tokens": 31954
+  },
+  "warm_usage": {
+    "prompt_tokens": 31930,
+    "completion_tokens": 24,
+    "total_tokens": 31954
+  }
+}

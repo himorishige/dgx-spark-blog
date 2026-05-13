@@ -1,0 +1,21 @@
+{
+  "code_review": {
+    "wall_s": 166.0,
+    "usage": {
+      "prompt_tokens": 35088,
+      "completion_tokens": 498,
+      "total_tokens": 35586
+    },
+    "out": "Based on the provided files, here are the most important potential bugs, resource concerns, and maintenance hazards.\n\n- **`ds4_cli.c:698-702`** – `read_prompt_file` uses `fseek(SEEK_END)` then `ftell` to get file length, but for a text file on Windows the return from `ftell` may be the offset from `_textS` rather than the actual byte count; also `fread` into a `char*` buffer assumes no embedded NUL bytes, but the code does not check for bare `\\0` inside the file.\n\n- **`ds4_cli.c:323-325`** – `cli_prefill_progress_cb` accepts a `const char *event` but then does `strcmp(event, \"prefill_chunk\")`. If the engine sends an event pointer that is invalid or points to a non-null-terminated string, the comparison will invoke undefined behavior.\n\n- **`ds4.h:112-114`** – `ds4_session_save_snapshot` / `ds4_session_load_snapshot` use a `ds4_session_snapshot` struct containing a `uint8_t *ptr` but no length/capacity bounds check visible in the public API; the user (e.g., `ds4_bench.c:189`) stores `snap.len` and relies on it for payload size, but there is no documented guarantee that `snap.len` matches the actual saved data.\n\n- **`ds4_gpu.h:22-23`** – `ds4_gpu_tensor_alloc` returns a raw pointer; nowhere in the public API is there a destructor that checks for double‑free or a mechanism to prevent a tensor from being freed while a `view` (created by `ds4_gpu_tensor_view`) is still alive, leading to use‑after‑free.\n\n- **`ds4_bench.c:154-163`** – The benchmark creates a snapshot (`snap`) before a loop iteration, but if `ds4_session_save_snapshot` fails silently inside the loop (line 189) the code continues to use an uninitialized `snap`; then at line 206 it calls `ds4_session_snapshot_free(&snap)` unconditionally, which may double‑free or free invalid memory."
+  },
+  "long_doc_summary": {
+    "wall_s": 298.7,
+    "usage": {
+      "prompt_tokens": 56662,
+      "completion_tokens": 900,
+      "total_tokens": 57562
+    },
+    "out": "**DGX Spark の性能限界とMoEモデルの優位性 -- 128GB統合メモリで実現するローカルAIワークフロー**\n\nNVIDIA DGX Sparkは128GBの統合メモリを活用し、大規模LLMや画像生成モデルの推論・学習から、マルチモーダル推論、投機的デコーディング（MTP）による高速化、さらにはローカル開発環境の構築まで多様なAIタスクを実現できるプラットフォームです。一方で、メモリ帯域273 GB/sが長文生成時のデコード速度の上限となり、クラウドAPIと比べて複雑なエージェントタスクの完遂率に差があることも明らかになりました。特に、アクティブパラメータが少ないMoEモデル（gpt-oss:20b、GLM-4.7-Flash、Qwen3-Coder-Next）は限られたリソースで高い性能を発揮しており、複数モデルの同居やLoRA SFT、MTP、NVFP4量子化といった軽量化技術との組み合わせがDGX Sparkの特性に最適であることが示されています。また、VS Code (Continue.dev) + Ollamaによるローカルコード補完やOpen WebUI、ComfyUIとの統合により、開発から運用まで一貫したワークフローが構築可能",
+    "n_files": 9
+  }
+}
