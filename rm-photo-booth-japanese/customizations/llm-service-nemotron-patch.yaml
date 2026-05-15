@@ -1,0 +1,58 @@
+# Photo Booth Playbook v1.0.1 (commit 58d24e5) の docker-compose.yaml にある
+# `llm` service を、vLLM Nemotron Nano 9B v2 FP8 に差し替えるためのパッチです。
+# 公式の TRT-LLM + gpt-oss-20b ブロック (line ~85-116) をこの内容で置き換えます。
+
+llm:
+  restart: unless-stopped
+  container_name: llm
+  image: nvcr.io/nvidia/vllm:25.12.post1-py3
+  healthcheck:
+    test: ["CMD", "curl", "-f", "http://127.0.0.1:8000/health"]
+    start_period: 30m
+    start_interval: 10s
+  ports:
+    - 8500:8000
+  environment:
+    - HF_TOKEN=${HF_TOKEN}
+    - VLLM_CACHE_ROOT=/root/.cache/vllm-local
+    # NOTE: HF_HUB_ENABLE_HF_TRANSFER=1 を追加すると、image に hf_transfer
+    #       パッケージが同梱されていないため pydantic ValidationError で
+    #       起動失敗します。設定しないこと。
+  ipc: host
+  command:
+    - python3
+    - -m
+    - vllm.entrypoints.openai.api_server
+    - --model
+    - nvidia/NVIDIA-Nemotron-Nano-9B-v2-FP8
+    - --trust-remote-code
+    - --tensor-parallel-size
+    - "1"
+    - --gpu-memory-utilization
+    - "0.40"
+    - --host
+    - 0.0.0.0
+    - --port
+    - "8000"
+    # NOTE: Nemotron H は Mamba-Transformer Hybrid アーキ。
+    #       SSM cache の dtype 指定が無いと起動失敗
+    - --mamba_ssm_cache_dtype
+    - float32
+    - --max-model-len
+    - "16384"
+    # NOTE: VSS 3.1 EA は次の 3 引数も付けるが Photo Booth の NAT ReAct
+    #       (プレーンテキスト) では不要かつ external plugin file が必要なため省略
+    # - --enable-auto-tool-choice
+    # - --tool-parser-plugin
+    # - /opt/toolcall_parser/nemotron_toolcall_parser_no_streaming.py
+    # - --tool-call-parser
+    # - nemotron_json
+  volumes:
+    - hf:/root/.cache/huggingface
+  deploy:
+    resources:
+      reservations:
+        devices:
+          - driver: nvidia
+            count: all
+            capabilities: [ gpu ]

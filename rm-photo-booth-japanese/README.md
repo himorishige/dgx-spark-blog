@@ -100,6 +100,40 @@ MinIO / Redpanda / Phoenix 等）を立ち上げます。
 - 画像生成: FLUX.1-Kontext-dev（非商用）→ **SDXL Turbo** に差し替え（CM Forum 2026 商用性懸念回避）
 - エージェント: NeMo Agent Toolkit のまま、`agent-service` 配下の workflow を日本語プロンプトに
 
+## Phase 2: Photo Booth フル稼働 + 日本語化フェーズ着手
+
+2026-05-15 のセッションで Photo Booth を朝のフル稼働 (写真撮影成功) まで持って
+いったのち、日本語化フェーズの最初として LLM 差し替え (`openai/gpt-oss-20b` →
+`nvidia/NVIDIA-Nemotron-Nano-9B-v2-FP8` on vLLM) を試しました。
+
+vLLM Nemotron 起動は成功 (healthy + 日本語応答生成) したものの、その後の
+Photo Booth restart で発生した「Reachy が反応しなくなる」現象の調査に時間を
+要し、最終的には gpt-oss-20b にロールバックしました。
+
+過程で得た主要な知見:
+
+- vLLM Nemotron 9B v2 FP8 を `nvcr.io/nvidia/vllm:25.12.post1-py3` で動かす
+  ための 4 つのハマり (hf_transfer / 大文字 model id / mamba_ssm_cache_dtype /
+  VSS 3.1 EA 専用 tool-parser)
+- Reachy の `Input Voltage Error` は Dynamixel の **警告レベル** のフラグで
+  実動作に影響なし。「ログ ≠ 真実、実機 = 真実」
+- Photo Booth state machine が `THINK` 状態で stuck することがあり、
+  `docker compose restart interaction-manager speech-to-text tracker` で
+  リセット可能
+- TTS 音声が出ない場合、ALSA Reachy Audio (card 1) の
+  `PCM Playback Volume` index=1 が 40/60 になっている可能性。
+  `amixer -c 1 cset numid=6 60` で sudo 不要に max 化できる
+
+詳細とパッチファイルは [`customizations/`](customizations/) を参照してください。
+
+### 改変パッチ (適用したのちに gpt-oss-20b にロールバック済み)
+
+| File | Purpose |
+|---|---|
+| [`customizations/llm-service-nemotron-patch.yaml`](customizations/llm-service-nemotron-patch.yaml) | `docker-compose.yaml` の `llm` service を vLLM Nemotron 9B v2 FP8 に置き換える |
+| [`customizations/photobooth-llms-nemotron-patch.yml`](customizations/photobooth-llms-nemotron-patch.yml) | `agent-service/src/configs/photobooth.yml` の `llms` ブロックを Nemotron 用に差し替える |
+| [`customizations/hardware_config-lowered-pid.yaml`](customizations/hardware_config-lowered-pid.yaml) | `hardware_config.yaml` の PID gain を Phase 1 default 相当に下げた版 (最終的に Input Voltage Error の原因ではなかった) |
+
 ## License
 
 Scripts: MIT License

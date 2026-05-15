@@ -1,0 +1,20 @@
+# Photo Booth Playbook v1.0.1 (commit 58d24e5) の
+# agent-service/src/configs/photobooth.yml にある `llms` ブロック (line ~30-42) を
+# vLLM Nemotron Nano 9B v2 FP8 を呼ぶように差し替えるためのパッチです。
+
+llms:
+  llm:
+    _type: completion_client
+    model_name: nvidia/NVIDIA-Nemotron-Nano-9B-v2-FP8
+    base_url: "http://llm:8000/v1/"
+    api_key: "EMPTY"
+    max_retries: 3
+    temperature: 0.7      # 公式 0.9 → 0.7 (ReAct 安定性重視)
+    max_tokens: 1024      # 公式 512 → 1024 (日本語応答 + ReAct Action のトランケート回避)
+    seed: 42
+    # NOTE: 公式の additional_kwargs.reasoning_effort と allowed_openai_params は
+    #       gpt-oss-20b 専用なので削除。
+    #       Nemotron で thinking モード抑制したい場合は chat_template_kwargs.thinking=false を
+    #       渡すが、NAT completion_client がこれを通すかは未検証 (本リポでは挿入していない)。
+    #       Nemotron は <think>...</think> reasoning を content に混入する Chain-of-Thought
+    #       スタイルなので、agent 側で strip するか system prompt で抑える必要がある。
