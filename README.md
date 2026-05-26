@@ -19,6 +19,7 @@ DGX Spark 関連の技術ブログ記事で使用したスクリプト・デー�
 | `g4-mtp/` | [Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた](https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/) |
 | `omni2-japanese-multimodal-bench/` | [Nemotron 3 Nano Omni / Gemma 4 / Cosmos-Reason2 を日本語マルチモーダルベンチで比べてみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron3-nano-omni-japanese-multimodal-bench/) |
 | `dwarfstar4-bench/` | [DwarfStar 4 で DeepSeek V4 Flash 284B を DGX Spark に載せてみた](https://dev.classmethod.jp/articles/dgx-spark-dwarfstar4-deepseek-v4-flash-bench/) |
+| `chronos2-plc-sim/` | [Chronos-2 で PLC 風時系列データを予測し、Nemotron で保全コメントを生成してみた](https://dev.classmethod.jp/articles/dgx-spark-chronos2-plc-sim-llm-maintenance/) |
 
 ## Environment
 
